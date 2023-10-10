@@ -3,6 +3,7 @@ import os
 import requests
 import time
 from bs4 import BeautifulSoup
+
 # Чтение одной страницы
 # URL = "https://www.kinopoisk.ru/film/535341/reviews/ord/rating/status/bad/perpage/10/page/1/"
 # headers = {"User-Agent": "Mozilla/5.0"}
@@ -26,6 +27,8 @@ for page in range(1, 10):
     else:
         print("Некорректная загрузка страницы" + page)
     time.sleep(5)
+
+# Потом когда получится собрать рецензии с нескольких страниц, распарсить можно прямо из текстового файла
 
 # Записываем текст элемента в файл
 # Получаем путь к текущей директории
