@@ -1,8 +1,29 @@
-#Первый вариант
 import os
+from html.parser import HTMLParser
 import requests
 import time
 from bs4 import BeautifulSoup
+
+def getRightNumber(number):
+    return str(number).zfill(4)
+
+
+def parseRevieHTML(review):
+    text = ""
+
+    text += review.find('meta', itemprop='headline')['content']
+    text += "\n"
+    brand_words_div = review.find('div', class_='brand_words')
+    text += brand_words_div.text.strip()
+    return text
+
+def checkDirectories():
+    if(not(os.path.exists('dataset'))):
+        os.mkdir('dataset')
+    if(not(os.path.exists('dataset/bad'))):
+        os.mkdir('dataset/bad')
+    if(not(os.path.exists('dataset/good'))):
+        os.mkdir('dataset/good')
 
 # Чтение одной страницы
 # URL = "https://www.kinopoisk.ru/film/535341/reviews/ord/rating/status/bad/perpage/10/page/1/"
@@ -12,28 +33,42 @@ from bs4 import BeautifulSoup
 # soup = BeautifulSoup(html_page, "html.parser")
 # htmlText = soup.prettify()
 
-textResult = ""
+# Проверка и создание каталогов
+checkDirectories()
+
 num_pos_reviews  = 0
 num_neg_reviews  = 0
 downloaded_count = 0
-# Цикл по страницам рецензий (5, чтобы не заблочило капчей)
+
+# Цикл по страницам рецензий (10, чтобы не заблочило капчей)
 for page in range(1, 10):
-    search_url = f'https://www.kinopoisk.ru/film/535341/reviews/ord/rating/status/bad/perpage/10/page/{page}/'
+    search_url = f'https://www.kinopoisk.ru/film/535341/reviews/ord/rating/status/all/perpage/10/page/{page}/'
     response = requests.get(search_url, headers={"User-Agent":"Mozilla/5.0"})
     response.encoding = 'utf-8' 
     soup = BeautifulSoup(response.text, "html.parser")
+    # Проверка на валидность странички
     if(response.status_code == 200):
-        textResult += soup.prettify() 
+        # Проход по всем отзывам
+        for review in soup.find_all('div', class_='reviewItem'):
+            # Положительная или отрицательная рецензия
+            responseMark = False 
+            if("response good" in review.prettify()):
+                responseMark = True
+            
+            # Парсить текст
+            textReview = parseRevieHTML(review)
+
+            if(responseMark == True): # Положительная оценка
+                file_path = "dataset/good/" + getRightNumber(num_pos_reviews) + ".txt"
+                num_pos_reviews+=1
+            else:
+                file_path = "dataset/bad/" + getRightNumber(num_neg_reviews) + ".txt"
+                num_neg_reviews+=1
+
+            file = open(file_path, "w", encoding="utf-8")
+            file.write(f"1+1\n")
+            file.write(textReview)
+            file.close()
     else:
         print("Некорректная загрузка страницы" + page)
-    time.sleep(5)
-
-# Потом когда получится собрать рецензии с нескольких страниц, распарсить можно прямо из текстового файла
-
-# Записываем текст страниц с рецензиями
-# Получаем путь к текущей директории
-current_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(current_dir, "lab1page.txt")
-with open(file_path, "w", encoding="utf-8") as file:
-    file.write(textResult)
-    
+    time.sleep(3)
