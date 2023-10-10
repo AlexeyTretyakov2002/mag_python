@@ -1,0 +1,2020 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" dir="ltr" lang="ru" prefix="og: http://ogp.me/ns# video: http://ogp.me/ns/video# ya: http://webmaster.yandex.ru/vocabularies/"><head profile="http://gmpg.org/xfn/11">
+    <title>1+1 (2011) — отзывы и рецензии — Кинопоиск</title>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta property="fb:app_id" content="121953784483000">
+    <meta name="application-name" content="Кинопоиск">
+    <meta content="width=960" name="viewport">
+    <meta property="fb:pages" content="152308956519">
+
+    <link rel="search" type="application/opensearchdescription+xml" title="Поиск на kinopoisk.ru" href="/kp_search.xml">
+    <meta name="msapplication-TileColor" content="#000">
+    <meta name="msapplication-TileImage" content="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-144.png">
+    <meta name="msapplication-config" content="https://st2.kp.yandex.net/public/xml/ieconfig.xml?v=1">
+    <link rel="mask-icon" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-16.svg">
+    <link rel="apple-touch-icon-precomposed" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/apple-favicon-152.png">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-57.png" sizes="57x57">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-76.png" sizes="76x76">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-120.png" sizes="120x120">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-128.png" sizes="128x128">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-144.png" sizes="144x144">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-152.png" sizes="152x152">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-180.png" sizes="180x180">
+    <link rel="icon" type="image/png" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-196.png" sizes="196x196">
+    <link rel="icon" href="https://yastatic.net/s3/kinopoisk-frontend/common-static/img/projector-favicon/favicon-64.ico">
+    <link href="/news.rss" type="application/rss+xml" rel="alternate" title="RSS">
+        <link rel="stylesheet" type="text/css" href="https://st1.kp.yandex.net/js/style.css?v=1" media="all">
+
+    <meta property="og:site_name" content="Кинопоиск">
+<meta name="description" content="Отзывы и рецензии зрителей на фильм «1+1» (2011). Читайте профессиональные рецензии кинокритиков и пользователей Кинопоиска">
+<meta property="og:description" content="Отзывы и рецензии зрителей на фильм «1+1» (2011). Читайте профессиональные рецензии кинокритиков и пользователей Кинопоиска">
+<meta property="twitter:description" content="Отзывы и рецензии зрителей на фильм «1+1» (2011). Читайте профессиональные рецензии кинокритиков и пользователей Кинопоиска">
+<meta name="keywords" content="1+1 Intouchables фильм кино обои фотографии сеансы афиша обзор комментарии рейтинг факты отзывы кадры новости сайт">
+<link rel="canonical" href="https://www.kinopoisk.ru/film/535341/reviews/">
+
+
+        
+            <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script nonce="" type="text/javascript">
+                        window.id_film = 535341;
+        </script>
+    
+        <script type="text/javascript" src="https://yandex.st/swfobject/2.2/swfobject.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" charset="utf-8" src="https://st6.kp.yandex.net/js/vendors.js?v=e6da5e92fb4e7679000e8cb75997383c" crossorigin="anonymous"></script>
+
+                <link href="https://st7.kp.yandex.net/js/superbanner.css?v=3e1fbab2983652a7e712df576b8857ff" type="text/css" rel="stylesheet" media="all">
+    <link href="https://st6.kp.yandex.net/js/devices/firefox.css?v=9745371a038c13ef30b684b13e045ab0" type="text/css" rel="stylesheet" media="all">
+
+
+
+<script nonce="" type="text/javascript">
+    function getStaticsDomain() {
+        return 'https\u003A\/\/st.kp.yandex.net';
+    }
+
+    function isKUB() {
+        return false
+    }
+
+    function getUserLogin() {
+        return '';
+    }
+
+    window.KP = window.KP || {};
+    window.KP.helpers = window.KP.helpers || {};
+    window.KP.config  = window.KP.config || {};
+
+    const debugParam = '_kp_debug';
+    const hasQuery = document.location.search.indexOf(debugParam) > -1;
+    const hasCookie = document.cookie.indexOf(debugParam) > -1;
+    KP.debug = false || hasQuery || hasCookie;
+    if (hasQuery && !hasCookie) {
+        $.cookie(debugParam, '1', {expires: 365, path: '/'});
+    }
+    window.KP.helpers.userIsAuth = function () {
+        return !!window.KP.helpers.getUserId();
+    };
+
+    window.KP.helpers.isGuest = function () {
+        return !window.KP.helpers.userIsAuth();
+    };
+    window.KP.helpers.getUserId = function () {
+        return null;
+    };
+
+    window.KP.helpers.getExportSettings = function () {
+        return {"user_id":0};
+    }
+
+    window.KP.request_id = '1696925898692799\u002D16087794086661203621';
+    window.KP.rum = {
+        id: String('28.567.72'),
+        project: String('kinopoisk\u002Dfrontend'),
+        page: String((document.location.pathname || '').split('/')[1]),
+        env: String('production'),
+        platform: 'desktop',
+        version: 'kp1',
+    };
+    window.KP.regionId = String(14);
+    window.KP.isRussia = Boolean(true);
+    window.KP.METRIKA_COUNTER_ID = '22663942';
+    window.KP.FACEBOOK_APP_ID = 121953784483000;
+    window.KP.config.ticketsClientKey = String('d0aafaed\u002D28a6\u002D45cf\u002D8bec\u002Db2ee0a359233');
+    window.KP.config.ticketsWidgetUrl = String('https\u003A\/\/tickets.widget.kinopoisk.ru\/dealer\/dealer.js');
+    window.KP.config.adfoxEnabled = Boolean(true);
+    window.KP.config.cryEnabled = false;
+    window.KP.config.detectMaliciousScripts = {
+        from: String('kinopoisk\u002Dold'),
+        domainExact: ["yandex.st","yastatic.net","ajax.googleapis.com","maps.googleapis.com","platform.twitter.com","cdn.syndication.twimg.com","vk.com","vkontakte.ru","vimeo.com","vesti.ru"],
+        domainSuffix: [".kinopoisk.ru",".yandex.ru",".yandex.net",".adfox.ru",".facebook.net",".facebook.com"]
+    };
+
+    window.Ya = window.Ya || {};
+    window.Ya.Kinopoisk = window.Ya.Kinopoisk || {};
+
+    window.abExperiments = [];
+    var xsrftoken = 'ih_yghPTqbUMAIJIRwlb0DRvQ4VTU46Wpwu3V3fq7yA';
+    $.ajaxSetup({data: {'token': xsrftoken}});
+
+    function isGuest() { return window.KP.helpers.isGuest(); }
+    function getAlertStatus() { return isGuest() ? 'login_error' : '';}
+
+    var version = '-';
+    var mainScript = document.querySelector('script[src*=js\\/main\\.js]');
+    if (mainScript) {
+        var mainScriptVersion = mainScript.getAttribute('src').match(/\?v=(.*)/);
+        if (mainScriptVersion) {
+            version = mainScriptVersion[1];
+        }
+    }
+</script>
+
+<script charset="utf-8" nonce="" src="https://st.kp.yandex.net/js/rum-inline.js?v1" type="text/javascript" crossorigin="anonymous"></script>
+<script charset="utf-8" nonce="" src="https://yastatic.net/pcode/adfox/loader.js"></script><link rel="preconnect" href="https://yastatic.net/"><link rel="preconnect" href="https://avatars.mds.yandex.net/"><link rel="preconnect" href="https://mc.yandex.ru/"><link rel="preconnect" href="https://ads.adfox.ru"><script async="" crossorigin="anonymous" src="https://yastatic.net/safeframe-bundles/0.83/host.js"></script><link rel="preload" href="https://yastatic.net/s3/home/fonts/ys/3/text-variable-full.woff2" type="font/woff2" as="font" crossorigin="anonymous"><style id="ysTextCssRule">@font-face {
+        font-family: "YS Text Variable";
+        src: url("https://yastatic.net/s3/home/fonts/ys/3/text-variable-full.woff2") format("woff2");
+        font-weight: 400 700;
+        font-display: optional;
+    }</style>
+
+
+<script nonce="" type="text/javascript">
+    $(document).ready(function () {
+        DOCUMENT_LOADED = true;
+    });
+</script>
+
+
+    <script type="text/javascript" src="https://st1.kp.yandex.net/js/main.js?v=1" charset="utf-8" crossorigin="anonymous"></script>
+    <script nonce="" type="application/javascript">
+                window.partialComponents = {
+            header: {
+                authData: {
+                                        isAuthorized: false
+                                    },
+
+                search: {
+                    value: "",
+                    shortcutFilter: ''
+                },
+                abExperiments: {}
+            },
+            footer: {
+                shouldShowTouchLink: false
+            }
+        };
+        var TopContentPoint=120;
+    </script>
+
+    <link data-chunk="partial-client" rel="preload" as="style" href="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/partial-client.b7fc984d5a897540ebd0.min.css">
+<link data-chunk="partial-client" rel="preload" as="style" href="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/vendors.a17ddeb1e7b17c2033f5.min.css">
+<link data-chunk="partial-client" rel="preload" as="script" href="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/vendors.ab57ac450a40febc6dda.min.js">
+<link data-chunk="partial-client" rel="preload" as="script" href="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/polyfills.6dfce870855b1a6c75c5.min.js">
+<link data-chunk="partial-client" rel="preload" as="script" href="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/partial-client.0bccf1c4a05b5d42a2a0.min.js">
+<link data-chunk="partial-client" rel="stylesheet" href="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/vendors.a17ddeb1e7b17c2033f5.min.css">
+<link data-chunk="partial-client" rel="stylesheet" href="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/partial-client.b7fc984d5a897540ebd0.min.css">
+<script defer="" src="https://sso.kinopoisk.ru/js/v1/mda2.1.min.js"></script>
+<script src="https://yastatic.net/react/17.0.2/react-with-dom.min.js"></script>
+<script src="https://yandex.ru/ads/system/context.js" async=""></script>
+<script id="__LOADABLE_REQUIRED_CHUNKS__" type="application/json" crossorigin="anonymous">[]</script><script id="__LOADABLE_REQUIRED_CHUNKS___ext" type="application/json" crossorigin="anonymous">{"namedChunks":[]}</script>
+<script async="" data-chunk="partial-client" src="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/vendors.ab57ac450a40febc6dda.min.js" crossorigin="anonymous"></script>
+<script async="" data-chunk="partial-client" src="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/polyfills.6dfce870855b1a6c75c5.min.js" crossorigin="anonymous"></script>
+<script async="" data-chunk="partial-client" src="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/partial-client.0bccf1c4a05b5d42a2a0.min.js" crossorigin="anonymous"></script>
+
+
+    
+<script type="text/javascript" async="" charset="utf-8" src="https://yastatic.net/s3/kinopoisk-frontend/widgets-www/release/34/dist/discovery/sdk.min.js"></script><style>.SmartCaptcha-Overlay {
+  position: fixed;
+  z-index: 9999999;
+  top: -10000px;
+  left: -10000px;
+
+  width: 100%;
+  width: var(--smart-captcha-doc-width, 100%);
+  height: 100%;
+  height: var(--smart-captcha-doc-height, 100%);
+  margin: 0;
+  padding: 0;
+
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.SmartCaptcha-Overlay.SmartCaptcha-Overlay_visible {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.SmartCaptcha-Overlay.SmartCaptcha-Overlay_no_background {
+  background: none;
+}
+
+.SmartCaptcha-Overlay .SmartCaptcha-Spin {
+  position: absolute;
+  top: 50%;
+  /* stylelint-disable */
+  left: 0;
+  right: 0;
+  /* stylelint-enable */
+
+  margin: auto;
+
+  transform: translateY(-50%);
+}
+</style><style>.SmartCaptcha-Spin {
+  display: none;
+  visibility: hidden;
+
+  box-sizing: border-box;
+
+  border: 2px solid transparent;
+  border-radius: 50%;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+}
+
+/* Для правильного позиционирования блока относительно baseline */
+.SmartCaptcha-Spin::after {
+  visibility: hidden;
+
+  content: '\00A0'; /* &nbsp; */
+}
+
+/*
+(1) https://st.yandex-team.ru/ISL-6342
+    Добавлена задержка начала анимации, что заставляет её нормально работать в iOS 12-
+    Решение взято отсюда:
+    https://stackoverflow.com/questions/29219534/css-animation-not-always-starting-in-ios-8-safari
+*/
+.SmartCaptcha-Overlay_visible.SmartCaptcha-Overlay_show_spinner .SmartCaptcha-Spin {
+  display: inline-block;
+  visibility: visible;
+
+  width: 50px;
+  height: 50px;
+
+  border-top-color: #5282FF;
+  border-left-color: #5282FF;
+
+  animation: islands-spin 1s .21s infinite linear; /* (1) */
+
+  backface-visibility: hidden;  /* Для ускорения анимации */
+}
+ .SmartCaptcha-Overlay_visible.SmartCaptcha-Overlay_show_spinner .SmartCaptcha-Spin {
+  border-top-color: var(--spin-view-default-border-color, #5282FF);
+  border-left-color: var(--spin-view-default-border-color, #5282FF);
+}
+
+@keyframes islands-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+</style><style>.smart-captcha {
+  min-width: 300px;
+  height: 102px;
+}
+
+.smart-captcha_invisible {
+  height: 0;
+}
+</style><link rel="prefetch" as="script" href="https://captcha-api.yandex.ru/shield.92b352a1c535daccf62d.chunk.js"><style>.discovery-trailers-overlay{background-image:linear-gradient(to bottom,rgba(0,0,0,0.8),rgba(0,0,0,0.95));position:fixed;display:block;bottom:0;left:0;right:0;top:0;z-index:9998;animation:fade-in 0.2s ease-out;overflow:auto;}.discovery-trailers-overlay:before{content:'';display:inline-block;animation:rotate 0.75s linear infinite;border:2px solid transparent;border-left-color:#f60;border-radius:50%;border-top-color:#f60;height:38px;width:38px;margin-left:-19px;margin-top:-19px;opacity:1;position:absolute;top:50%;left:50%;}.discovery-trailers-wrapper{position:relative;display:flex;justify-content:center;align-items:center;padding:60px;height:calc(100% - 120px);min-width:904px;min-height:508px;}.discovery-trailers-iframe{border:none;min-width:904px;min-height:508px;}.discovery-trailers-embed-iframe{position:absolute;top:0;left:0;width:100%;height:100%;}.discovery-trailers-closer{border:none;padding:0;height:18px;width:18px;background-color:transparent;background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMThweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMTggMTgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQzLjEgKDM5MDEyKSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5jbG9zZS1NPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlN5bWJvbHMiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJjbG9zZS1NIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMy4wMDAwMDAsIC0zLjAwMDAwMCkiIGZpbGw9IiNGRkZGRkYiPgogICAgICAgICAgICA8Zz4KICAgICAgICAgICAgICAgIDxwb2x5Z29uIHBvaW50cz0iMTkuNTg2IDMgMTIgMTAuNTg2IDQuNDE0IDMgMyA0LjQxNCAxMC41ODYgMTIgMyAxOS41ODYgNC40MTQgMjEgMTIgMTMuNDE0IDE5LjU4NiAyMSAyMSAxOS41ODYgMTMuNDE0IDEyIDIxIDQuNDE0Ij48L3BvbHlnb24+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==);position:absolute;top:32px;right:32px;cursor:pointer;opacity:0.5;visibility:visible;transition:visibility 0.1s,opacity 0.1s ease-out;z-index:1;}.discovery-trailers-closer:hover{opacity:1;}.js-kinopoisk-widget-embed{width:100%;height:100%;position:relative;cursor:pointer;background-color:#000;background-repeat:no-repeat;background-size:cover;background-position:center;}.js-kinopoisk-widget-embed:after{content:'';display:inline-block;border:0;border-left:10px solid #fff;position:absolute;border-style:solid;border-width:30px 0 30px 50px;border-color:transparent transparent transparent #fff;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.8;transition:opacity 0.2s ease;}.js-kinopoisk-widget-embed:hover:after{opacity:1;} @keyframes rotate{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}@keyframes fade-in{from{opacity:0;}to{opacity:1;}}</style><style> .qfcdfed86{cursor:pointer !important;position:absolute !important;right:4px !important;top:4px !important;z-index:10 !important;width:24px !important;height:24px !important;display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important;-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;-webkit-box-pack:center !important;-ms-flex-pack:center !important;justify-content:center !important;pointer-events:auto !important;border-radius:50% !important;-webkit-user-select:none !important;-moz-user-select:none !important;-ms-user-select:none !important;user-select:none !important;-webkit-tap-highlight-color:transparent !important} .qfcdfed86:hover{opacity:.8 !important} .a7b526e46{background-color:#fff !important;opacity:.8 !important;height:100% !important;width:100% !important;position:absolute !important;top:0 !important;left:0 !important;z-index:-1 !important;border-radius:inherit !important;-webkit-transition:opacity .15s,background-color .5s ease-in-out !important;-o-transition:opacity .15s,background-color .5s ease-in-out !important;transition:opacity .15s,background-color .5s ease-in-out !important} .a32cef6e9{display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important;-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;cursor:pointer !important;max-width:calc(100% - 40px) !important;height:12px !important;line-height:normal !important;-webkit-box-sizing:border-box !important;box-sizing:border-box !important;padding:0 4px !important;border-radius:16px !important;font-size:8px !important;text-transform:uppercase !important;letter-spacing:.125em !important;pointer-events:none !important;text-decoration:none !important;color:#575c66 !important;background-color:#fff !important;opacity:.8 !important;font-family:YS Text Variable,YS Text,Helvetica,Arial,sans-serif !important} .f41eacc8e{-o-text-overflow:ellipsis !important;text-overflow:ellipsis !important;white-space:nowrap !important;overflow:hidden !important} .c95321aed{position:relative !important} .dadd98d7f{left:4px !important} .dadd98d7f, .s3bef8cb4{position:absolute !important;top:4px !important;z-index:10 !important} .s3bef8cb4{right:4px !important} .y6af24cb9{margin:0 auto !important}</style><style nonce="">#af-520460478{width:100%;height:250px;position:relative;}</style><style nonce="">#id5668{width:100%;height:250px;top:0px;left:0px;position:absolute;}</style><style type="text/css">.UZznxc{width:100%;height:inherit;min-height:inherit;max-height:inherit}</style><style nonce="">#3dcc680196{width:1px;height:1px;position:relative;}</style><style nonce="">#id1600{width:1px;height:1px;top:0px;left:0px;position:absolute;}</style></head>
+<body class="svg-background_yes Theme Theme_color_yandex-default Theme_root_default"><div id="kinopoisk-header-sticky-container" class="MdouZ8k4Q9WDRqQPGEBF partial-header-v4__wrapper"><header class="F1eiUNVaPy3QX5LmvDQE PSC22a50iqTkDyBpXVTQ" data-tid="63b05890"><div class="header-navigation wcJl6bcgAVkRoFsc0_eo OFFhyFpjZOUZunWhZQmc"><div class="aMfgWQBTIY0uss0h37VA"><div class="pLMZR2nAdhFF6iOtDNzu" data-tid="911e2f4d"><div class=""><button class="yXbuMLSYfq8mLy4xl1kw yQ5D7nSpK9mGaaxW9KeA" type="button" aria-label="Меню" aria-haspopup="true" aria-expanded="false" data-tid="8ed90190"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M21 7.102H3v-2.4h18v2.4Zm0 6H3v-2.4h18v2.4Zm0 6H3v-2.4h18v2.4Z" fill="#999999"></path></svg></button><div class="lTUcYCrgF6rA3EK1u5AI EFYsbOlgmZFqJ6PQDI8Q" data-tid="585eb7c0"><div class="NjIy5Qr_25DiVhkD2TRR jsAHY6EGlNi7UzRJIlsg xyLSLlOABSCB3MtF81wf"><nav class="Sye748kIGKR6_1o5fbVg nUCGj9a6Imz38aan3dLe" data-tid="e500879d"><ul><li data-tid="f76ee5ab"><a href="/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/61205/a7775b8cfeb0024b6fb4fe0ee125e284b8ac8a1f/orig" data-tid="b35288c1">Главная</a></li><li data-tid="f76ee5ab"><a href="https://hd.kinopoisk.ru/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/994123/9589a3fd442af2ca26c14e6d6e539d30399eb29c/orig" data-tid="b35288c1">Онлайн-кинотеатр</a></li><li data-tid="f76ee5ab"><a href="/lists/categories/movies/1/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/994123/bf58cac09c0da90eba5358d5c37abe9c689103c5/orig" data-tid="b35288c1">Фильмы</a></li><li data-tid="f76ee5ab"><a href="/lists/categories/movies/3/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/120922/c5487daa04b8f27021f64ab83b20a6459c1819ff/orig" data-tid="b35288c1">Сериалы</a></li><li data-tid="f76ee5ab"><a href="https://hd.kinopoisk.ru/sport/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/998550/ea2cab3a0f1a40eecc268f047c4712d1cd2d2a4d/orig" data-tid="b35288c1">Спорт</a></li><li data-tid="f76ee5ab"><a href="/afisha/new/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/135516/90382ec02b0e6da6a6a0926260378272c180caa9/orig" data-tid="b35288c1">Билеты в кино</a></li><li data-tid="f76ee5ab"><a href="/media/" class="GmLXW62Efnko3EMVFkUA LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img loading="lazy" class="KILuQZypVqlHBzlsjHtD" src="https://avatars.mds.yandex.net/get-bunker/61205/688ea4a84561dc943dfa9db0d37e1553a96166df/orig" data-tid="b35288c1">Медиа</a></li><li data-tid="f76ee5ab"><a href="https://yandex.ru/alice/tv-station-pro?utm_source=kinopoisk&amp;utm_medium=cpm_banner&amp;utm_campaign=TV_Station_Launch_22082023&amp;utm_term=burgerbanner" class="GmLXW62Efnko3EMVFkUA d05R9gEJYOtfKUGeFELm LNIIw176AJgYPrnDHDmw" data-tid="de7c6530"><img src="https://avatars.mds.yandex.net/get-bunker/60661/cb2db996b01158067a86bf6878937ad91d6b1f5f/orig" srcset="https://avatars.mds.yandex.net/get-bunker/60661/cb2db996b01158067a86bf6878937ad91d6b1f5f/orig 1x, https://avatars.mds.yandex.net/get-bunker/60661/24770a6b94a05889d00d097bbe13279906d1fd07/orig 2x" data-tid="b35288c1"></a></li></ul></nav></div></div></div><a class="msMehWzmLAVwfQcmxv8w uW96Br00hFkFKc_Vc7HM" href="/" aria-label="Кинопоиск" data-tid="79e4350"><img class="Tz6jKbE7Yc1fjKO9M1sa kinopoisk-header-logo__img" alt="Кинопоиск" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTY0IiBoZWlnaHQ9IjM2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNTguODU5IDE4YzAtNS44ODkgMi45NTQtMTAuNiA4LjI4MS0xMC42IDUuMzI4IDAgOC4yODEgNC43MTEgOC4yODEgMTAuNiAwIDUuODktMi45NTQgMTAuNi04LjI4IDEwLjYtNS4zMjggMC04LjI4Mi00LjcxLTguMjgyLTEwLjZabTguMjgxIDcuNjZjMi4wNzIgMCAyLjk1NC0zLjUzNCAyLjk1NC03LjY1MiAwLTQuMTItLjg4OS03LjY1Mi0yLjk1NC03LjY1Mi0yLjA2NSAwLTIuOTU0IDMuNTMzLTIuOTU0IDcuNjUyLS4wMDcgNC4xMTguODgyIDcuNjUyIDIuOTU0IDcuNjUyWk0zLjg0MyA3Ljd2NS41OTZoLjI5NEw3Ljk4IDcuN2g1LjMybC03LjA5OCA2LjQ3NC4yOTQuMjkzTDE5LjUxIDcuNjkzdjQuNzExTDcuOTczIDE2LjUyM3YuMjkybDExLjUzNy0xLjAyOHY0LjQxOUw3Ljk3MyAxOS4xNzh2LjI5M2wxMS41MzcgNC4xMTh2NC43MTJMNi40OTYgMjEuNTI2bC0uMjk0LjI5MyA3LjA5OCA2LjQ3NEg3Ljk4bC0zLjg0My01LjU5NmgtLjI5NHY1LjU5NkgwVjcuNjg2aDMuODQzVjcuN1ptMTkuMjMgMEgyOC4xbC0uMjk0IDEyLjM2M2guMjk0TDM0LjAxNSA3LjdoNC40Mzh2MjAuNjA4aC01LjAyNmwuMjk0LTEyLjM2NGgtLjI5NEwyNy41MSAyOC4zMDloLTQuNDM4VjcuN1ptMjMuOTU1IDBoLTUuMDI2djIwLjYwOGg1LjAyNnYtOS4xM2g0LjEzN3Y5LjEzaDUuMDI2VjcuN2gtNS4wMjZ2Ny45NTJoLTQuMTM3VjcuN1ptNDUuMjUgMGgtMTQuMTl2MjAuNjA4aDUuMDI3VjExLjIzM2g0LjEzN3YxNy4wNzVoNS4wMjZWNy43Wm0yLjY2IDEwLjNjMC01Ljg4OSAyLjk1NC0xMC42IDguMjgyLTEwLjYgNS4zMiAwIDguMjgxIDQuNzExIDguMjgxIDEwLjYgMCA1Ljg5LTIuOTU0IDEwLjYtOC4yODEgMTAuNi01LjMyIDAtOC4yODItNC43MS04LjI4Mi0xMC42Wm04LjI4MiA3LjY2YzIuMDcyIDAgMi45NTQtMy41MzQgMi45NTQtNy42NTIgMC00LjEyLS44ODktNy42NTItMi45NTQtNy42NTItMi4wNzIgMC0yLjk1NCAzLjUzMy0yLjk1NCA3LjY1MiAwIDQuMTE4Ljg4MiA3LjY1MiAyLjk1NCA3LjY1MlpNMTE5LjE4NyA3LjdoLTUuMDI2djIwLjYwOGg0LjQzOGw1LjkxNi0xMi4zNjRoLjI5NGwtLjI5NCAxMi4zNjRoNS4wMjZWNy43aC00LjQzOGwtNS45MTYgMTIuMzYzaC0uMjk0bC4yOTQtMTIuMzYzWm0yMy42NjkgMTMuNTQxIDQuNzMyLjU4NWMtLjg4OSA0LjEyLTIuOTU0IDYuNzc0LTcuMzY0IDYuNzc0LTUuMzIgMC04LjAxNi00LjcxLTguMDE2LTEwLjYgMC01Ljg4OSAyLjY4OS0xMC42IDguMDE2LTEwLjYgNC4zMTcgMCA2LjQ3NSAyLjY0OSA3LjM2NCA2LjQ3NWwtNC43MzIgMS4xNzdjLS4yOTQtMi4wNjMtMS4xNTUtNC43MS0yLjYzMi00LjcxLTEuNzcxIDAtMi42ODkgMy41MzMtMi42ODkgNy42NTEgMCA0LjA5LjkxOCA3LjY1MiAyLjY4OSA3LjY1MiAxLjQ0OS4wMTUgMi4zMy0yLjM0MSAyLjYzMi00LjQwNFptMTEuODMtMTMuNTRoLTQuNzMydjIwLjYwN2g0LjczMnYtOS4xM2guMjk0bDMuNTQ5IDkuMTNIMTY0bC01LjE3Ny0xMC42TDE2My44NDkgNy43aC01LjAyNmwtMy44NDMgOS4xM2gtLjI5NFY3LjdaIiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg=="></a></div></div><div class="X20_NjlpDPlTkbuok4rx undefined"><div class="ArscTgpab2agRvZhPYWB"><nav class="uUDLV3vKTlX0gghIsJeU kinopoisk-header-featured-menu mJNXX7ycWm2jhZkbDvck" data-tid="78f04c5d"><a class="HewSW_lsZ1vm_FFxdXik vQi0EgnSLg57Ndz9t7rI kinopoisk-header-featured-menu__item" href="https://hd.kinopoisk.ru/" target="_self" data-tid="acc26a70"><img aria-hidden="true" class="HzJij8Eyy92SV4Ad5Jxw _VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/61205/7230b4c753cc9d0928a4802b1ae08ccf7cb7d245/orig" srcset="" data-tid="b35288c1"><img aria-hidden="true" class="_VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/50064/15d30528c2394db32f9624a0fa4ff244f79d8c7c/orig" srcset="" data-tid="b35288c1">Онлайн-кинотеатр</a><a class="HewSW_lsZ1vm_FFxdXik vQi0EgnSLg57Ndz9t7rI kinopoisk-header-featured-menu__item" href="https://hd.kinopoisk.ru/sport/" target="_blank" data-tid="acc26a70"><img aria-hidden="true" class="HzJij8Eyy92SV4Ad5Jxw _VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/994123/f95a48764fa0729885fbb366f2cfa9674f6b1163/orig" srcset="" data-tid="b35288c1"><img aria-hidden="true" class="_VlDRna_t4zR_pH6lrQf" src="https://avatars.mds.yandex.net/get-bunker/994123/0543458993e7e9e07f438e402911bf2bc1f9570f/orig" srcset="" data-tid="b35288c1">Новый сезон КХЛ</a></nav></div><div class="dYqkZsYev763FwS59js3"><div class="ANqFTQtmUIkLdxyiuvHX z4iVv0UXxWLfrQf1pgIC" data-tid="8d7d7cbd"><form class="PxhYm_eY_wPIfKcQuMws" action="/index.php"><div class="SPvzKZuHcHDgthtQB0iw fzZ5G8oKiAZ3HYzWf9gF" data-tid="b0e8f9b"><input type="text" name="kp_query" class="UnxoJ4nUSkuPXF9CyGhq kinopoisk-header-search-form-input__input" autocomplete="off" aria-label="Фильмы, сериалы, персоны" placeholder="Фильмы, сериалы, персоны" value="" required=""><div class="eHMm7KHEGFApsLYSTfc9 kinopoisk-header-search-form-input__control-container"><a href="/s/" class="o_KSzBSF8pfTnCzlRvkI" aria-label="Расширенный поиск" tabindex="-1"><svg class="c1wHrX0nYR4Zk_nNlgHG" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.2917 7.58317C12.913 7.58317 13.4167 7.07949 13.4167 6.45817C13.4167 5.83685 12.913 5.33317 12.2917 5.33317C11.6704 5.33317 11.1667 5.83685 11.1667 6.45817C11.1667 7.07949 11.6704 7.58317 12.2917 7.58317ZM15.2533 7.45817C14.8363 8.69363 13.6679 9.58317 12.2917 9.58317C10.9155 9.58317 9.74712 8.69363 9.33011 7.45817H2.08335V5.45817H9.33011C9.74712 4.22271 10.9155 3.33317 12.2917 3.33317C13.6679 3.33317 14.8363 4.22271 15.2533 5.45817H17.9167V7.45817H15.2533ZM7.70835 12.4165C7.08703 12.4165 6.58335 12.9202 6.58335 13.5415C6.58335 14.1628 7.08703 14.6665 7.70835 14.6665C8.32967 14.6665 8.83335 14.1628 8.83335 13.5415C8.83335 12.9202 8.32967 12.4165 7.70835 12.4165ZM4.74678 14.5415H2.08335V12.5415H4.74678C5.16379 11.306 6.33219 10.4165 7.70835 10.4165C9.08452 10.4165 10.2529 11.306 10.6699 12.5415H17.9167V14.5415H10.6699C10.2529 15.777 9.08452 16.6665 7.70835 16.6665C6.33219 16.6665 5.16379 15.777 4.74678 14.5415Z" fill="#000"></path></svg></a><button type="submit" class="gq5GztMRY87mAaGXPl0A GYeMayLu5xyRrkpS3tK3" aria-label="Найти" tabindex="-1" data-tid="f49ca51f"><svg class="bEOAU8l0RAVCYGLwzIcd search-form-submit-button__icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M13.6667 8.74984C13.6667 11.4652 11.4654 13.6665 8.75002 13.6665C6.03462 13.6665 3.83335 11.4652 3.83335 8.74984C3.83335 6.03444 6.03462 3.83317 8.75002 3.83317C11.4654 3.83317 13.6667 6.03444 13.6667 8.74984ZM12.7965 14.5643C11.6494 15.3641 10.2545 15.8332 8.75002 15.8332C4.838 15.8332 1.66669 12.6619 1.66669 8.74984C1.66669 4.83782 4.838 1.6665 8.75002 1.6665C12.662 1.6665 15.8334 4.83782 15.8334 8.74984C15.8334 10.2544 15.3643 11.6494 14.5643 12.7966L17.9672 16.1994L16.1994 17.9672L12.7965 14.5643Z" fill="#000"></path></svg>Найти</button></div></div></form></div></div></div><div class="d2iyLnHno8pjyTUgsF_y"><button type="button" class="Ex0puzxB_2NaW0e2X_Go" aria-label="Найти"><span class="jhKJCc9wISzmNgerbIU3"></span></button><div class="_RT4qvKPDDRA4P9Pbu4U header-v4__user-bar" data-tid="1a82203d"><div><a class="XRFDKKJU8DfXVi5G3cXD header-v4__plusDesktopBrandingButton STmivYg46UU9HR07qW5a Nokhal6_xR93e6wiOUIQ BmJQElS8p5jVYAXtRGuF AQ93DjnB1VgVwDsEKXMl" href="https://hd.kinopoisk.ru/?source=kinopoisk_head_button">Смотреть кино</a></div><button type="button" class="ZbVGA14bTNo86weQTABU">Войти</button></div></div></div></header></div><div id="popup"><div id="popup_overlay"></div><div id="popup_container"><div id="popup_container_inner"></div></div></div>
+
+    <div id="external_header_wrapper">
+        <div id="partial_component__header-topline"><div class="foxad-special-banner-partial-component foxad-special-banner-partial-component_theme_desktop" aria-hidden="true" data-tid="dc336c1d"><div class="foxad foxad_theme_default" data-tid="2cff2d30"><div id="adfox_15295830482302608" class="foxad__container"></div></div></div><div class="toaster-container-partial-component" data-tid="e7b67fbd"></div><style data-tid="8509e1d1">
+                        .feature_promo,
+                        #ui_notice_container {
+                            bottom: 0px;
+                        }
+
+                        .feature_promo {
+                            margin-bottom: 40px;
+                        }
+                    </style><div class="promo-partial-component" style="bottom:40px" aria-hidden="true" data-tid="dd5f0271"><div class="foxad foxad_theme_default" data-tid="2cff2d30"><div id="adfox_15626875611296678" class="foxad__container"></div></div><span class="promo-partial-component__close"></span></div></div>
+
+    </div>
+
+
+<main class="page-content">
+    <div id="header-info-bg"></div>
+    <div id="top"></div>
+            <div class="underheader-superbanner-wrapper">
+    <div class="underheader-superbanner">
+            <script nonce="">
+                var params = {
+                    p1: 'bvqwz',
+                    p2: 'fkyf',
+                };
+                var superbannerRenderStartTime = Date.now();
+                advBlock({
+                    id: 251518,
+                    name: 'underheader_superbanner',
+                    type: 'underheader_superbanner',
+                    adfoxParams: params,
+                    instantInit: true,
+                    rum: {
+                        placeId: '77', // top
+                    },
+                    onRender: function() {
+                        console.log('superbanner render time', Date.now() - superbannerRenderStartTime);
+                    },
+                    onStub: slamTopBanner,
+                });
+
+                setTimeout(slamTopBanner, 5000);
+
+                function slamTopBanner() {
+                    var element = document.querySelector('.underheader-superbanner-wrapper');
+
+                    if (element) {
+                        element.style.minHeight = '0';
+                    }
+                }
+
+                function closeTopBanner() {
+                    var element = document.querySelector('.underheader-superbanner');
+
+                    if (element) {
+                        element.parentNode.removeChild(element);
+                    }
+                }
+
+                function  handleBannerEvent (event){
+                    var data = event.data;
+                    var eventParams = data.params || {};
+
+                    if (
+                        data.event === 'close-banner' &&
+                        eventParams.p1 === params.p1 &&
+                        eventParams.p2 === params.p2
+                    ) {
+                        closeTopBanner();
+                    }
+                }
+
+                window.addEventListener('message', handleBannerEvent);
+            </script><!-- underheader_superbanner 251518 --><div id="yandex__underheader_superbanner_251518_1696925900612" style="" class=""><div class="c95321aed" style="width: 100%; height: 250px;" id="af-520460478"><div class="qfcdfed86 s3bef8cb4"><div class="a7b526e46"></div><svg width="8" height="20" viewBox="0 0 8 20" fill="black" xmlns="http://www.w3.org/2000/svg"><circle cx="4" cy="4" r="1.5"></circle><circle cx="4" cy="10" r="1.5"></circle><circle cx="4" cy="16" r="1.5"></circle></svg></div><div class="a32cef6e9 dadd98d7f"><span class="f41eacc8e">Реклама</span></div><iframe frameborder="no" scrolling="no" allowtransparency="true" hidefocus="true" tabindex="-1" marginwidth="0" marginheight="0" style="opacity: 1;" src="https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html" id="id5668"></iframe></div></div>
+    </div>
+</div>
+<style>
+    .underheader-superbanner-wrapper {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 40px;
+        display: block!important;
+        min-height: 250px;
+    }
+
+    .underheader-superbanner {
+        margin: 0 auto;
+    }
+
+    #top {
+        margin-bottom: 0 !important;
+    }
+</style>
+        <div class="shadow shadow-restyle content">
+
+        
+                        <div id="content_block" style="background-color: #fff; min-height: 850px" class="contentBlock107">
+        <link href="https://st.kp.yandex.net/js/movies.css?v=5ae89c310c9e3de776862669e9acc03e" type="text/css" rel="stylesheet" media="all"><table style="background-color: #fff; width: 850px; margin: 24px auto 0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                
+<script type="text/javascript" src="https://st7.kp.yandex.net/js/change_review_status.js?v=d38ba374bafc6ec35f7f01fc2cc7885e" charset="utf-8"></script>
+<script type="text/javascript" src="https://st1.kp.yandex.net/js/level1.js?v=c124ef22104ac891fd6128fb57022a03" charset="utf-8"></script>
+<script src="https://captcha-api.yandex.ru/captcha.js" defer=""></script>
+
+<td id="block_left_padtop">
+    <div class="block_left_padtop">
+        <table cellspacing="0" cellpadding="0" height="100%" width="100%" border="0">
+            <tbody><tr>
+                <td valign="top">
+                    <ul class="breadcrumbs">
+    <li class="breadcrumbs__item">
+        <h1 class="breadcrumbs__head">
+            <div>Рецензии</div>
+        </h1>
+    </li>
+    <li class="breadcrumbs__item breadcrumbs__item_sep">/</li>
+    <li class="breadcrumbs__item">
+        <h1 class="breadcrumbs__head">
+            <a href="/film/535341/" class="breadcrumbs__link" data-popup-info="disabled">1+1</a>
+        </h1>
+        <div class="breadcrumbs__sub">Intouchables, 2011</div>
+    </li>
+</ul>
+
+                    <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                        <tbody><tr>
+    <td height="30" style="padding-left:10px" class="border-tb">
+        <img src="https://st1.kp.yandex.net/public/img/sqr-orange.gif?v=1" vspace="2" hspace="10">
+        <a href="/film/535341/" class="all">К описанию фильма »</a>
+    </td>
+</tr>
+
+                        <tr>
+    <td colspan="3"></td>
+</tr>
+<tr>
+    <td colspan="3" style="padding-left: 20px" class="news">
+        <ul class="list_film_option clearfix">
+            <li>
+                <a href="#" class="comm-new list_option_img formReviewAncor" title="Добавить новую рецензию" data-popup-info="disabled"></a>
+                <a href="#" class="all formReviewAncor" data-popup-info="disabled">Добавить рецензию...</a>
+            </li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td colspan="3"></td>
+</tr>
+
+                                                    <tr bgcolor="#f2f2f2">
+                                <td>
+                                    <table cellspacing="0" cellpadding="0" width="100%" border="0" style="background-color: white">
+                                        <tbody><tr>
+                                            <td>
+                                                <div class="clear_all">
+                                                    <ul class="resp_type">
+    <li class="all">
+                    <a href="/film/535341/reviews/?ord=rating&amp;rnd=1696925899">Все:</a>
+        <b>552</b>
+    </li>
+    <li class="pos">
+                    <a href="/film/535341/reviews/?status=good&amp;ord=rating&amp;rnd=1696925899">Положительные:</a>
+        <b>482</b>
+    </li>
+    <li class="neg">
+                    <span>Отрицательные:</span>
+        <b>36</b>
+    </li>
+    <li class="perc">Процент:<b>90.4%</b></li>
+    <li class="neut">
+                    <a href="/film/535341/reviews/?status=neutral&amp;ord=rating&amp;rnd=1696925899">Нейтральные:</a>
+        <b>34</b>
+    </li>
+</ul>
+
+                                                    <dl class="sorts">
+    <dt class="sort">сортировать:</dt>
+
+    <dd style="width: 90px">
+                    <span>по рейтингу</span>
+            </dd>
+    <dd style="width: 70px">
+                    <a href="/film/535341/reviews/?status=bad&amp;ord=date&amp;rnd=1696925899" data-popup-info="disabled">по дате</a>
+            </dd>
+    <dd style="width: 150px">
+                    <a href="/film/535341/reviews/?status=bad&amp;ord=login&amp;rnd=1696925899" data-popup-info="disabled">по имени пользователя</a>
+            </dd>
+</dl>
+
+                                                    <p class="more_random"></p>
+<div style="height: 24px; overflow: hidden">
+    <div style="position: absolute; margin-top: -40px">
+        <script nonce="" type="text/javascript">
+self_url = "\/film\/535341\/reviews\/ord\/rating\/status\/bad\/perpage\/10\/";
+ancher = '';
+</script>
+<div class="navigator">
+    
+        
+            <div class="show">
+                <u>показывать:</u>
+                <select class="navigator_per_page">
+                    <option value="10" selected="selected">10</option>
+                    <option value="25">25</option>
+                    <option value="50">50</option>
+                    
+                    
+                    
+                </select>
+            </div>
+        
+    
+    
+        <ul class="list">
+            
+                
+                    <li><span>1</span></li>
+                
+            
+                
+                    <li><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/2/">2</a></li>
+                
+            
+                
+                    <li><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/3/">3</a></li>
+                
+            
+                
+                    <li><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/4/">4</a></li>
+                
+            
+                
+                    <li class="arr"><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/2/">»</a></li>
+                
+            
+                
+                    <li class="arr"><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/4/">»»</a></li>
+                
+            
+        </ul>
+    
+    <div class="pagesFromTo">1—10 из 36</div>
+</div>
+
+    </div>
+</div>
+
+            <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_2169301" data-id="2169301">
+    <div id="2169301"></div>
+
+    <div class="response bad" id="div_review_2169301" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="Закат Европы">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://avatars.mds.yandex.net/get-kino-vod-users-avatar/69337/937160-48-873892.jpg/46x73_bw" src="https://avatars.mds.yandex.net/get-kino-vod-users-avatar/69337/937160-48-873892.jpg/46x73_bw" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/937160/" itemprop="name" data-popup-info="disabled">dan-na</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/937160/comments/">рецензии</a></li>
+                    <li><a href="/user/937160/votes/">оценки</a></li>
+                    <li><a href="/user/937160/friends/">друзья</a></li>
+                    <li><a href="/user/937160/movies/">фильмы</a></li>
+                    <li><a href="/user/937160/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_2169301">Закат Европы</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(2169301)" onmousedown="clearSelect(2169301)">
+                        <p id="ext_text_2169301"><span class="_reachbanner_" itemprop="reviewBody">Ну и вот, открываю это я список французских фильмов снятых за всю историю синематографа (изобретенного французами, кстати). В списке значится 34 140 фильмов пока. На первом месте находится сабж. Что ж, и не зря. Ведь в этом фильме все прекрасно: и безработный вор из Сенегала, и парализованный бездетный аристократ, и драгоценные живописные кляксы, и секретарша-лесбиянка (ну слава богу, а то мы уж распереживались, чо это она нег... афросенегальцу не дает. Уж не расистка ли? А, нет, все в порядке, причина более чем уважительная), и недоделанные, нудные, беспомощные бледнолицые французишки, которых ставит на место африканский герой, раздавая воспитательные затрещины. Все повествование проникнуто искрометным политкорректным юмором, дабы какой зритель не возомнил о себе ненароком чего лишнего - образования там какого... среднего.. или возраста старше 10 лет - все шутки будут изысканно незамысловаты: нет ручек - нет конфетки (ггг), показал свой огурчик (ггг), а давайте польем паралитика кипятком (ггг),  усы как у Гитлера (ггг...  заодно и гневно фашизм осудили, сатира, понимаешь, политическая...)<br>
+<br>
+ И все это было бы мило и забавно, но авторам ведь мало забавлять. Они ведь о душе нашей пекутся. Чтоб позитив был. Чтобы мы не капризничали, а раз уж инвалиды и вырожденцы,  расслабились бы и получали удовольствие если не по маркизу де Саду (без ручек и ножек это тяжело), то хотя бы по Захеру Мазоху (а вот это в самый раз)...<br>
+<br>
+ И... конечно, деньги. Деньги, граждане, это вам не роскошь, а средство передвижения по этому позитивно прекрасному миру, без них вас даже кипятком никто не ошпарит, не говоря уж чтоб ухо облизать, и об этом наша лучшая французская фильма всех времен. <br>
+<br>
+ Как говорится, bravo!</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/937160/comment/2169301/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/937160/comment/2169301/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(2169301); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_2169301" onclick="setCommentVote('2169301', 'ok', '937160', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_2169301" onclick="setCommentVote('2169301', 'no', '937160', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_2169301">127 / 83</li>
+        </ul>
+        <i id="comment_num_vote_2169301_note" class="ajax_bottom"></i>
+
+        <span class="date">10 января 2015 | 05:19</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_2169301_a"><a class="yes" href="#" onclick="change_review_status(2169301, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_2169301" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_2169301"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_2169301_a" style="display: none"><a class="no" href="#" onclick="change_review_status(2169301, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_2169301_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(2169301, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_2169301" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_2169301" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_2169301">
+        <textarea id="spoiler_textarea_2169301"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(2169301)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(2169301)">
+        <a href="#" onclick="CloseSpoiler(2169301); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_2272353" data-id="2272353">
+    <div id="2272353"></div>
+
+    <div class="response bad" id="div_review_2272353" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="Комедия о смысле жизни?">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://avatars.mds.yandex.net/get-kino-vod-users-avatar/33806/6247249-00-408343.jpg/46x73_bw" src="https://st.kp.yandex.net/images/spacer.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/6247249/" itemprop="name" data-popup-info="disabled">AnnCho</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/6247249/comments/">рецензии</a></li>
+                    <li><a href="/user/6247249/votes/">оценки</a></li>
+                    <li><a href="/user/6247249/friends/">друзья</a></li>
+                    <li><a href="/user/6247249/movies/">фильмы</a></li>
+                    <li><a href="/user/6247249/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_2272353">Комедия о смысле жизни?</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(2272353)" onmousedown="clearSelect(2272353)">
+                        <p id="ext_text_2272353"><span class="_reachbanner_" itemprop="reviewBody">Этот фильм я презираю, и это не просто эмоциональная оценка. У меня есть конструктивные аргументы в оправдание своему, так сказать, снобизму. <br>
+<br>
+Во-первых, он насквозь фальшивый. Как говорится во всем известной поговорке 'Счастье не зависит от количества денег. Но лучше плакать в Бентли, чем в маршрутке.' Да-да, спасибо дорогой режиссер, что в очередной раз напоминаешь нам, простым смертным, о том, как много благ у сильных мира сего, ну или хотя бы у просто богатых. Будь этот покалеченный мужчина в той же Франции в совсем ином социальном положении, фильм вышел бы куда правдоподобнее, и вряд ли выглядел бы так радужно. Ведь вместо наслаждения продажными женщинами и покатушками на крутой тачке (что очень далеко от понятия духовных, ну или хотя бы мозгостимулирующих практик, помогающих проанализировать сложившееся положение и найти способ быть в нем счастливым), мужик пытался бы насладиться катанием в общественном транспорте или тем, как удачно он сходил сегодня в туалет без сиделки.<br>
+<br>
+Во-вторых, все якобы смешные сцены пропитаны наигранностью, у тонко чувствующих и эмпатичных людей фильм вызывает в основном омерзение. Может, конечно, у меня что-то не так с юмором, но такой юмор я считаю клише в крайнем его проявлении.<br>
+<br>
+Словом, фильм рассчитан на самую что ни на есть широкую массу, он призывает нас к тому, чтобы отключать почаще мозг и наслаждаться без пользы для дела самыми низменными (даже для богатых) способами. И это по-вашему 'маленькие и невинные' радости жизни? Я вас умоляю.<br>
+<br>
+1 из 10</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/6247249/comment/2272353/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/6247249/comment/2272353/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(2272353); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_2272353" onclick="setCommentVote('2272353', 'ok', '6247249', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_2272353" onclick="setCommentVote('2272353', 'no', '6247249', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_2272353">119 / 83</li>
+        </ul>
+        <i id="comment_num_vote_2272353_note" class="ajax_bottom"></i>
+
+        <span class="date">01 августа 2015 | 20:52</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_2272353_a"><a class="yes" href="#" onclick="change_review_status(2272353, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_2272353" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_2272353"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_2272353_a" style="display: none"><a class="no" href="#" onclick="change_review_status(2272353, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_2272353_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(2272353, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_2272353" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_2272353" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_2272353">
+        <textarea id="spoiler_textarea_2272353"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(2272353)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(2272353)">
+        <a href="#" onclick="CloseSpoiler(2272353); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_2209222" data-id="2209222">
+    <div id="2209222"></div>
+
+    <div class="response bad" id="div_review_2209222" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="'Довольно грустный фильм, если углубиться', говорили они.">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://avatars.mds.yandex.net/get-kino-vod-users-avatar/69337/241401-21-185394.jpg/46x73_bw" src="https://st.kp.yandex.net/images/spacer.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/241401/" itemprop="name" data-popup-info="disabled">Goodwin-spb</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/241401/comments/">рецензии</a></li>
+                    <li><a href="/user/241401/votes/">оценки</a></li>
+                    <li><a href="/user/241401/friends/">друзья</a></li>
+                    <li><a href="/user/241401/movies/">фильмы</a></li>
+                    <li><a href="/user/241401/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_2209222">'Довольно грустный фильм, если углубиться', говорили они.</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(2209222)" onmousedown="clearSelect(2209222)">
+                        <p id="ext_text_2209222"><span class="_reachbanner_" itemprop="reviewBody">Давайте разберемся, про что же сей грустный фильм, друзья мои. <br>
+<br>
+Быть может, про то, как старикашка-миллионер в инвалидном кресле, который может себе позволить всё и, тем не менее, не шевелит и пальцем для помощи себе подобным, заводит себе гоповатого негра, готового убирать говно руками за деньги?<br>
+<br>
+ Или про то, как классно рассекать по району на мазерати, обкурившись марихуаны?<br>
+<br>
+ Возможно, про перипетии подростковых отношений 'он меня трахнул а потом бросил, я наелась таблеток слабительного и сейчас умру'? <br>
+<br>
+Про непревзойденно смешную шутку с усами, над которой смеются 100 граждан Израиля из 100?<br>
+<br>
+Про семью чернокожих мигрантов в трущобах, которые, судя по сценам с их участием, пьют кока-колу, ходят на работу в клининговую компанию и толкают траву в школе днями напролет?<br>
+<br>
+ Про местных барыг с района, которые, бедняжки, пугаются в четыре морды и оперативно уезжают на черном джипе, когда к нему на 15 секунд подходит Мистер Посмотрите Какой Крутой Нигер? <br>
+<br>
+ Про ванильный хэппи-энд с 'основано на реальных событиях' в титрах? <br>
+<br>
+- А вы знаете, у нас не только негры и инвалиды снимаются, а ещё представители секс-меньшинств, смотрите какие мы толерантные! А ещё у нас есть копы с пушками виу виу руки на капот для любителей боевиков! А ещё... - Господи, да выключите это уже кто-нибудь!<br>
+<br>
+5 из 10<br>
+<br>
+P.S. Простите, а за что сия приторная детская сказка получила рейтинг 16+?</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/241401/comment/2209222/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/241401/comment/2209222/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(2209222); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_2209222" onclick="setCommentVote('2209222', 'ok', '241401', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_2209222" onclick="setCommentVote('2209222', 'no', '241401', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_2209222">131 / 96</li>
+        </ul>
+        <i id="comment_num_vote_2209222_note" class="ajax_bottom"></i>
+
+        <span class="date">23 марта 2015 | 03:28</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_2209222_a"><a class="yes" href="#" onclick="change_review_status(2209222, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_2209222" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_2209222"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_2209222_a" style="display: none"><a class="no" href="#" onclick="change_review_status(2209222, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_2209222_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(2209222, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_2209222" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_2209222" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_2209222">
+        <textarea id="spoiler_textarea_2209222"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(2209222)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(2209222)">
+        <a href="#" onclick="CloseSpoiler(2209222); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_2659740" data-id="2659740">
+    <div id="2659740"></div>
+
+    <div class="response bad" id="div_review_2659740" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="Жить, чтобы курить со вкусом">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://st.kp.yandex.net/images/users/user-no.gif" src="/images/spacer.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/10496076/" itemprop="name" data-popup-info="disabled">medleonid</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/10496076/comments/">рецензии</a></li>
+                    <li><a href="/user/10496076/votes/">оценки</a></li>
+                    <li><a href="/user/10496076/friends/">друзья</a></li>
+                    <li><a href="/user/10496076/movies/">фильмы</a></li>
+                    <li><a href="/user/10496076/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_2659740">Жить, чтобы курить со вкусом</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(2659740)" onmousedown="clearSelect(2659740)">
+                        <p id="ext_text_2659740"><span class="_reachbanner_" itemprop="reviewBody">Всё красиво, затягивающий сценарий, сама идея яркая: двое совершенно разных людей дополняют друг друга и всё у них налаживается. Но вот только вопрос в том, что значит 'налаживается', и как это происходит: разносторонняя грубость, постоянные сексуальные домогательства, наплевательство на других -- вот рецепт счастья, если вы не знали. За красивой картинкой нам продают вот такую жизнь. Если представить себя такое не в красивой кинообёртке, а в своей жизни, то становится противно и ужасно. А в фильме всё так хорошо. Оказывается, наорать на свою дочь - это крутой педагогический приём. А потом запугать физической расправой её парня -- это наладить отношения. Унижать человека за его физическую слабость -- это налаживать дружеские отношения. Рискуя жизнью и своей и других, кататься на спортивной машине 180 км/ч по городу -- это поднять настроение. И т.д.<br>
+<br>
+Всё это можно было бы простить гэ-гэ-гэшным комедиям, экшенам и боевикам, где супергерой из 8-зарядного пистолета побеждает сотню врагов. Но здесь это преподносится, как реальная история, психологическая история раскрытия человека навстречу счастью. И тут это вызывает полное отторжение: и сам стиль общения и то, как вдруг это меняет жизнь к лучшему. В жизни всё наоборот.</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/10496076/comment/2659740/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/10496076/comment/2659740/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(2659740); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_2659740" onclick="setCommentVote('2659740', 'ok', '10496076', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_2659740" onclick="setCommentVote('2659740', 'no', '10496076', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_2659740">37 / 17</li>
+        </ul>
+        <i id="comment_num_vote_2659740_note" class="ajax_bottom"></i>
+
+        <span class="date">09 марта 2018 | 22:49</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_2659740_a"><a class="yes" href="#" onclick="change_review_status(2659740, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_2659740" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_2659740"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_2659740_a" style="display: none"><a class="no" href="#" onclick="change_review_status(2659740, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_2659740_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(2659740, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_2659740" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_2659740" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_2659740">
+        <textarea id="spoiler_textarea_2659740"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(2659740)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(2659740)">
+        <a href="#" onclick="CloseSpoiler(2659740); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_2382579" data-id="2382579">
+    <div id="2382579"></div>
+
+    <div class="response bad" id="div_review_2382579" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="Тонкая дебилизация под сладким соусом">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://st.kp.yandex.net/images/users/user-no.gif" src="/images/spacer.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/1670600/" itemprop="name" data-popup-info="disabled">sch1234567890</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/1670600/comments/">рецензии</a></li>
+                    <li><a href="/user/1670600/votes/">оценки</a></li>
+                    <li><a href="/user/1670600/friends/">друзья</a></li>
+                    <li><a href="/user/1670600/movies/">фильмы</a></li>
+                    <li><a href="/user/1670600/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_2382579">Тонкая дебилизация под сладким соусом</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(2382579)" onmousedown="clearSelect(2382579)">
+                        <p id="ext_text_2382579"><span class="_reachbanner_" itemprop="reviewBody">«1+1» (Неприкасаемые), пожалуй, один из самых популярных фильмов, который в последние годы выставляется повсюду в списках самых трогательных и даже нравственных фильмов со смыслом. Сколько хвалебных отзывов можно встретить, и как трудно найти критику. Практически все просмотревшие этот фильм, позиционируют его как глубокий (а для некоторых философский) фильм, который можно пересматривать неоднократно.<br>
+<br>
+<b>Чему все же учит этот фильм?</b><br>
+<br>
+Возьмём, к примеру, обычного подростка и попытаемся представить, какие впечатления останутся у него после просмотра.<br>
+<br>
+Если говорить в общих представлениях, то фильм эффективно дискредитирует созерцательную форму восприятия человека, при котором он стремится к возвышенным чувствам, к духовности, и в целом европейскую классическую культуру, противопоставляя и пропагандируя при этом примитивную чувственную форму восприятия. Подобная форма дебилизации крайне необходима для того, чтобы толкнуть народы в пучину страстей и легкомыслия. А дальше с ними можно делать что угодно.<br>
+<br>
+Разберем по порядку фильм, для того, чтобы тезис стал очевиден.<br>
+<br>
+Главный герой по имени Дрисс — самый типичный вор и хулиган, обычный французский эмигрант из арабских, африканских стран. На протяжении всего фильма сугубо положительный персонаж, при этом все его характерные свойства, которые воспринимаются окружающими поначалу несколько неодобрительно, как то полагается, в конечном счете, и приводят ко всем положительным эмоциям, покоряют всех окружающих.<br>
+<br>
+Второй герой, Филипп, в начале показан как самый настоящий эстет: воспитанный, благородный, одухотворенный аристократ. Он чувствует искусство, мыслит глубоко, без пагубных привычек. По крайней мере, создает такое впечатление. Далее, все это показывается как некая бессмысленная скука, и герой начинает радовать зрителей своим методичным отступлением в мир примитивный.<br>
+<br>
+В отношении живописи у молодого зрителя, который еще не сведущ в живописи, возникает впечатление, что, в принципе, вся мировая живопись имеет ценность только потому, что богатые дяди готовы приобретать картины за огромные деньги, и что всякий шедевр — это результат подобной спекуляции. Подобное впечатление убивает в человеке тягу к настоящей живописи, заменяя ее «знанием», что все это — ерунда.<br>
+<br>
+Похожим образом осуществляется косвенная дискредитация высокой литературы и музыки.<br>
+<br>
+Образ женщины: на примере в образе ассистентки Филиппа — Магали. Ее трансформация в течение фильма показана очень ярко. В начале она показана очень воспитанной и образцовой женщиной. Далее в ее лице показывается, что какой бы одухотворенной женщина ни была, она все равно не способна чувствовать по-настоящему возвышенные формы обращения и предпочитает простые методы подката. В одной из сцен она одобрительно отзывается о хамском поведении Дрисса, выражая свое восхищение им.<br>
+<br>
+Однако сама не поддаётся на прямые и пошлые методы героя из французских трущоб, одержимого желанием соблазнить столь привлекательную рыжеволосую особу. Это невольно наталкивает на мысль, что и простые прямолинейные методы соблазнения женщин недейственны. Однако, оказывается, что Магали так неприступна лишь потому, что она — лесбиянка. Все проявления женщин в фильме создают впечатление того, что при взаимодействии с ними надо как можно меньше стремиться к возвышенным чувствам, и побольше к низменным.<br>
+<br>
+В фильме присутствует несколько важных моментов:<br>
+<br>
+Например, все французские мужчины показаны в этом фильме фальшивыми, эгоистичными, слабохарактерными, а некоторые и подлыми. На фоне них красуется типичный негр-мигрант, который превосходит всех по своей природной естественности, добросердечности, по своим устремлениям к справедливости и т.д. Это на руку европейской миграционной политике, одна из целей которой: подавление национального самосознания французов и других европейских народов.<br>
+<br>
+Пропаганда курения. Постепенно Дрисс приобщает «эстета» Филиппа к курению. Романтизируется образ курения травки. Все это становится нормой для «эстета» и позиционируется как положительное явление. Примечателен момент, когда новый ухаживающий хочет покормить инвалида, но тот просит сигаретку. Когда новичок начинает говорить о вреде курения и о здоровом образе жизни, Филипп демонстративно удаляется, выставив преемника Дрисса в нелепом свете.<br>
+<br>
+В заключение надо сказать, что все это присутствует на втором плане, а сам сюжет достаточно неплох с художественной стороны, и также весьма мил для того, чтобы заинтересовать широкий круг зрителей, что позволяет создателям говорить о положительной морали фильма. К тому же в конце картины говорится, что сюжет основан на реальных событиях. Это является контрольным выстрелом для того, чтобы ослабить критическое восприятие зрителя и окончательно убедить его в том, что все показанное в фильме соответствует действительному положению дел. Мало кто понимает, что эти реальные события просто использованы для определенных корыстных целей, и что в фильме лишь сюжет соответствует этим событиям. Это всё делает внедрение выявленных идей гораздо более эффективным и масштабным.<br>
+<br>
+Мораль: Высокая культура людям не нужна. Вся эта одухотворённая музыка, живопись, литература — лишь внешняя скорлупа, за которой прячутся аристократы. Внутри у всех одно желание: жить простыми удовольствиями и ценностями. Именно простые удовольствия и ценности позволяют наслаждаться жизнью в полной мере. Высокопарный слог, унылое дребезжание скрипки, небрежный мазок художника неспособны сделать жизнь интересной и наполнить её смыслом.<br>
+<br>
+1 из 10</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/1670600/comment/2382579/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/1670600/comment/2382579/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(2382579); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_2382579" onclick="setCommentVote('2382579', 'ok', '1670600', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_2382579" onclick="setCommentVote('2382579', 'no', '1670600', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_2382579">72 / 53</li>
+        </ul>
+        <i id="comment_num_vote_2382579_note" class="ajax_bottom"></i>
+
+        <span class="date">31 марта 2016 | 23:11</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_2382579_a"><a class="yes" href="#" onclick="change_review_status(2382579, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_2382579" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_2382579"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_2382579_a" style="display: none"><a class="no" href="#" onclick="change_review_status(2382579, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_2382579_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(2382579, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_2382579" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_2382579" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_2382579">
+        <textarea id="spoiler_textarea_2382579"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(2382579)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(2382579)">
+        <a href="#" onclick="CloseSpoiler(2382579); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_1777504" data-id="1777504">
+    <div id="1777504"></div>
+    <div class="response bad" id="div_review_1777504" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="Фильм-иллюзия о социальной гармонии  или неудавшаяся притча о запоздалом раскаянии">
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img src="https://st.kp.yandex.net/images/users/user-no.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s>
+                    <a href="/user/1322865/" itemprop="name" data-popup-info="disabled"><strike>lik2234</strike></a>
+                </p>
+                <ul class="actions"></ul>
+                <p class="sub_title" id="ext_title_1777504">Фильм-иллюзия о социальной гармонии  или неудавшаяся притча о запоздалом раскаянии</p>
+            </div>
+        </div>
+
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(1777504)" onmousedown="clearSelect(1777504)">
+                        <p id="ext_text_1777504"><span class="_reachbanner_" itemprop="reviewBody">Посмотрел я расхваленный фильм «1+1».  Не записав его в неудачные, я всё же удивлялся почти стопроцентным положительным откликам. Объяснить это я могу только одним – отсутствием должной взыскательности. Я же не увидел в фильме ни талантливой комедии, ни вообще правдивого отображения жизни.<br>
+<br>
+Да, фильм создан на основе реальной истории. Это хорошо, когда художник берёт факт из жизни и развивает его, выявляя важную для него идею. Важно только, чтобы фантазия автора была всё же увязана с действительностью – причём, не по внешней правде факта, а по правде человеческих характеров. Чтобы зритель не воскликнул: «Не верю!»<br>
+<br>
+	Я многому не могу поверить в этом фильме. Разберёмся с фабулой. <br>
+<br>
+Волей случая, состоятельный и образованный европеец оказывается зависимым в самых естественных потребностях от других.  И в качестве наилучшего помощника для себя он видит неорганизованного, необразованного, недисциплинированного и неумелого выходца из совсем другой среды - эмигранта из Африки, да ещё с тёмным прошлым. <br>
+<br>
+	Объясняет Филипп свой выбор тем, что в общении с сострадающими соотечественниками он утрачивает жизненные силы, тогда как человек из простонародья эти силы в нём пробуждает.<br>
+<br>
+	История эта не нова. Мы помним, что Роза в «Титанике» задыхалась от лицемерия и фальши высшего света. А Джек возродил её к жизни своей простотой и ясностью. Мы помним, что и умирающий Иван Ильич в толстовской повести охотнее принимал помощь от простого мужика, который исполнял над ним свой долг во Христе, облегчая страдание. Но мне что-то не припомнится, чтобы он ёрничал: «Ну, что, паралитик, конфеты захотел? А вот возьму и не дам! Ха-ха! Нет рук – нет и конфеты!». <br>
+<br>
+Возможно, Филипп хочет взглянуть на мир тем же незамутнённым взглядом, которым глядит его новый знакомый (и авторы нас приглашают присоединиться). И мы, что, всерьёз поверим, что взгляды дикаря на жизнь и искусство более здоровые, чем те, что накопила европейская цивилизация? Возможно, в джунглях Сенегала единственное назначение музыки – сопровождать  ритуальные пляски перед  трапезами каннибалов. Но Шопен-то  сочинял танцы не для ног, а для головы! И если Дрисс далёк от европейской культуры, то мы-то  почему  вместе с Филиппом должны этому умиляться? <br>
+<br>
+И мы, что, всерьёз верим, что этот «человек из народа» имеет чутьё правды? То есть тысячи знатоков и специалистов глупы и не видят, что краски на холсте – просто мазня? А один Дрисс это видит? И пришёл он, такой чистый, как ребёнок, и сказал, что король голый, и всё – лопнул мыльный пузырь модернизма?  <br>
+<br>
+Признаюсь, я не специалист в области современной живописи, но, воспитанный на полотнах Тициана и Рафаэля,  смею предположить, что последующие гении и творцы тоже внесли некий вклад в сокровищницу духовной культуры. Смею надеяться, что специалисты-искусствоведы сумеют отличить полотно талантливого художника-авангардиста от мазни неуча. И потому мне не смешно, когда маляр негодный мне пачкает мадонну Рафаэля. <br>
+<br>
+Кстати, о Рафаэле. Что должна выражать, по мнению создателей фильма, улыбка умиления Филиппа, когда он от своего нового кандидата на должность слышит, что Берлиоз – всего лишь неблагополучный район Парижа, что Рафаэль – это черепашка-ниндзя, что всё, чего стоит музыка Баха и Вивальди –быть рекламной заставкой? Приглашение к солидарности с ним? <br>
+<br>
+Оценивать искусство тому, кто не постиг и его  азов – непозволительно. А это право своему герою (Дриссу) делегируют создатели фильма, что не может не вызывать у меня отторжения. Потому что это из философии известных кругов: им – баллады Шопена, а они – «гы-гы, дык это и я так умею!».  Нам пытаются показать путь духовного очищения таким образом аристократа Филиппа? Видно, кому-то об этом очень мечтается. <br>
+<br>
+Авторы фильма вертят своими героями, нимало не заботясь о психологической оправданности. Мыслящий же человек твёрдо знает: в одночасье не станет бездарь – талантом, подлец – честным, неуч - учёным. <br>
+<br>
+И подтрунивание  в фильме над архаичностью классики не ново. Когда они отмечают день рождения, Дрисс заявляет: какая у вас скука! давайте веселиться по-настоящему! И танцует (надо сказать - неплохо). И чопорные гости вдруг неожиданно для себя начинают «заводиться» и приплясывать. Где-то я такое уже видел. Ах, да, в детском мультике  «Бременские музыканты». Там тоже во дворце сначала чинно танцевали гавоты и менуэты, а потом пришёл менестрель - и все фрейлины затанцевали – аж парики на головах запрыгали. Всё это уже было. И сделано было вкуснее. <br>
+<br>
+Я отказываю этому фильму не только во вкусе, не только в художественной правде, но и в  элементарной художественной логике. <br>
+<br>
+Напомню, что фильм создан в 2011 году. Возможно, его создавали не как дурашливую комедию. Французы  больно пережили события ноября 2005 года, когда тысячи эмигрантов из мусульманских стран громили парижские предместья. И, видимо, тогда в обществе встал вопрос:  стоит ли за счёт налогоплательщиков кормить эту ораву, живущую за их счёт? (Это не Дрисс, а именно Филипп, впустив в свой дом воришку и проявляющий к тому недюжинное всепрощение, оказывается в роли протянувшего руку помощи). Авторы фильма предложили своё решение проблемы: надо, как Филипп, испытать раскаяние перед  угнетёнными и обобранными народами, впустить их в свой дом (во Францию), быть терпеливыми и снисходительными  – и тогда они ответят благодарностью. <br>
+<br>
+	По мне, более реалистичный взгляд выражен в известной повести Лермонтова. Там «честные контрабандисты» спёрли-таки у странствующего  офицера его нехитрые пожитки (и при этом чуть его не утопили). И не совестились. Прохор Громов (В.Я.Шишков роман «Угрюм-река»), тоже, выходя из народа, обустраивался в жизни на чужой крови, не стесняясь. А Киса Воробьянинов за 12-й стул вообще своего напарника – бритвой по горлу. Но, может, такое характерно только для российской действительности. <br>
+<br>
+А авторы французской комедии  - в духе социалистического реализма («непрерывное развитие ценнейших индивидуальных способностей человека ради победы его над силами природы») - видимо, верят, что только всепрощение и гуманизм в отношении к ним высветят лучшее в душах падших и привнесут в европейский дом  мир и благополучие. И для этого частную историю французского бизнесмена и аристократа Филиппа Поццо ди Борго преподносят как пример для подражания (вроде трудовых подвигов  Паши Ангелиной или Алексея Стаханова). Мне не очень-то верится в массовый успех этого опыта. А социальных экспериментов и их грустных итогов мы уже видели предостаточно. И если кто-либо желает загладить  свою вину перед оскорблёнными  и униженными народами Африки (Азии, Латинской Америки и т.д.), то для этого необязательно впускать в своё дом проходимцев. Есть и более разумные формы благотворительности. Так что художественными средствами авторы фильма меня в состоятельности своей теории не убедили. А вас?</span>
+                        </p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links"></p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(1777504); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_1777504" onclick="setCommentVote('1777504', 'ok', '1322865', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_1777504" onclick="setCommentVote('1777504', 'no', '1322865', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_1777504">159 / 143</li>
+        </ul>
+        <i id="comment_num_vote_1777504_note" class="ajax_bottom"></i>
+        <span class="date">26 апреля 2013 | 23:55</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_1777504_a"><a class="yes" href="#" onclick="change_review_status(1777504, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_1777504" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_1777504"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_1777504_a" style="display: none"><a class="no" href="#" onclick="change_review_status(1777504, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_1777504_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(1777504, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_1777504" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_1777504" class="ajax"></i>
+        <strike></strike>
+    </div>
+    <div class="signer signer_edit" id="spoiler_txt_1777504">
+        <textarea id="spoiler_textarea_1777504"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(1777504)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(1777504)">
+        <a href="#" onclick="CloseSpoiler(1777504); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_2456577" data-id="2456577">
+    <div id="2456577"></div>
+
+    <div class="response bad" id="div_review_2456577" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="1+1=0">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://avatars.mds.yandex.net/get-kino-vod-users-avatar/69337/1677528-21-570710.jpg/46x73_bw" src="https://st.kp.yandex.net/images/spacer.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/1677528/" itemprop="name" data-popup-info="disabled">никита никитин</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/1677528/comments/">рецензии</a></li>
+                    <li><a href="/user/1677528/votes/">оценки</a></li>
+                    <li><a href="/user/1677528/friends/">друзья</a></li>
+                    <li><a href="/user/1677528/movies/">фильмы</a></li>
+                    <li><a href="/user/1677528/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_2456577">1+1=0</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(2456577)" onmousedown="clearSelect(2456577)">
+                        <p id="ext_text_2456577"><span class="_reachbanner_" itemprop="reviewBody">Переоценённый? Не то слово переоценённый. Не говоря уж про то, насколько он теряется на фоне «Скафандра и бабочки», «Моря внутри» или старенького  «Сада наслаждений». Несчастный олигарх, который даже будучи паралитиком может позволить себе в сто крат более, чем рядовой житель Земли. Очень трогательно. Фальшак ужасный. Ну и обезьянство Омара Си начинает раздражать уже к середине фильма, не сочтите за расизм.<br>
+<br>
+Ну мне бы очень хотелось посмотреть, как дядька, сидящий на балконе сияющего дворца, окружённый верными слугами, рассказывает о счастье  матерям-одиночкам с детьми-инвалидами на руках и старикам-паралитикам, живущим на нищенскую пенсию и не имеющим должного ухода. Дяденьке не нужно заботиться о лекарствах, сиделках и персональных тренерах, не нужно думать, кто подотрёт его после туалета. Пусть он и стал калекой (опять же по своей прихоти, долбанувшись с параплана), но остался миллионером и представителем establishment. Так что история уж точно не про «не в деньгах счастье». За эту ложь, возведённую в добродетель, я этот фильм и не перевариваю.  Такого истекающего ванилью хэппи-фильма не смог забацать даже пресловутый Голливуд. Вон, даже Сэма Клафлина прибили в конце концов.<br>
+<br>
+5 из 10</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/1677528/comment/2456577/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/1677528/comment/2456577/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(2456577); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_2456577" onclick="setCommentVote('2456577', 'ok', '1677528', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_2456577" onclick="setCommentVote('2456577', 'no', '1677528', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_2456577">55 / 41</li>
+        </ul>
+        <i id="comment_num_vote_2456577_note" class="ajax_bottom"></i>
+
+        <span class="date">04 ноября 2016 | 06:39</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_2456577_a"><a class="yes" href="#" onclick="change_review_status(2456577, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_2456577" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_2456577"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_2456577_a" style="display: none"><a class="no" href="#" onclick="change_review_status(2456577, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_2456577_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(2456577, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_2456577" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_2456577" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_2456577">
+        <textarea id="spoiler_textarea_2456577"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(2456577)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(2456577)">
+        <a href="#" onclick="CloseSpoiler(2456577); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_1992212" data-id="1992212">
+    <div id="1992212"></div>
+
+    <div class="response bad" id="div_review_1992212" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="В угоду политкорректности">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://avatars.mds.yandex.net/get-kino-vod-users-avatar/27708/692471-41.jpg/46x73_bw" src="https://st.kp.yandex.net/images/spacer.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/692471/" itemprop="name" data-popup-info="disabled">MrZombie</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/692471/comments/">рецензии</a></li>
+                    <li><a href="/user/692471/votes/">оценки</a></li>
+                    <li><a href="/user/692471/friends/">друзья</a></li>
+                    <li><a href="/user/692471/movies/">фильмы</a></li>
+                    <li><a href="/user/692471/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_1992212">В угоду политкорректности</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(1992212)" onmousedown="clearSelect(1992212)">
+                        <p id="ext_text_1992212"><span class="_reachbanner_" itemprop="reviewBody">Довольно странная и вредная картина.<br>
+<br>
+История из жизни Абделя Селлу и Филиппа Поццо ди Борго действительно уникальна и необычна, но это не повод ставить столь высокие оценки pro-босяскому фильму.<br>
+<br>
+Режиссура достаточно невзрачная, музыка подобрана, на мой взгляд, не соответствующая, юмор убог.<br>
+<br>
+Но самое страшное не в этом. Подтекст фильма заключается в том, что вот она - новая Франция: черная, красивая, атлетическая, смелая, решительная, указывающая коренным жителям, что и как нужно делать, ставящая на место залежавшихся французов.<br>
+<br>
+В действительности же мы видим сенегальца с примитивным родоплеменным укладом, запутавшегося в жизни и не желающего и пальцем шевельнуть ради налаживания собственной судьбы и судьбы своих чернокожей братии. Его жизнь - пособие, наркотики, выбивание льгот.<br>
+<br>
+При просмотре фильма охватывает омерзение, так навязчиво призывает режиссер любить братьев наших меньших. Я считаю этот фильм обычным контркультурным политическим заказом, но никак уж не шедевром из топа 250.</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/692471/comment/1992212/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/692471/comment/1992212/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(1992212); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_1992212" onclick="setCommentVote('1992212', 'ok', '692471', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_1992212" onclick="setCommentVote('1992212', 'no', '692471', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_1992212">90 / 80</li>
+        </ul>
+        <i id="comment_num_vote_1992212_note" class="ajax_bottom"></i>
+
+        <span class="date">03 марта 2014 | 14:07</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_1992212_a"><a class="yes" href="#" onclick="change_review_status(1992212, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_1992212" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_1992212"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_1992212_a" style="display: none"><a class="no" href="#" onclick="change_review_status(1992212, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_1992212_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(1992212, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_1992212" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_1992212" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_1992212">
+        <textarea id="spoiler_textarea_1992212"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(1992212)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(1992212)">
+        <a href="#" onclick="CloseSpoiler(1992212); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_2157993" data-id="2157993">
+    <div id="2157993"></div>
+
+    <div class="response bad" id="div_review_2157993" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="Несовместимая сумма.">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://avatars.mds.yandex.net/get-kino-vod-users-avatar/27708/1447279-15-614618.jpg/46x73_bw" src="https://st.kp.yandex.net/images/spacer.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/1447279/" itemprop="name" data-popup-info="disabled">gendlog</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/1447279/comments/">рецензии</a></li>
+                    <li><a href="/user/1447279/votes/">оценки</a></li>
+                    <li><a href="/user/1447279/friends/">друзья</a></li>
+                    <li><a href="/user/1447279/movies/">фильмы</a></li>
+                    <li><a href="/user/1447279/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_2157993">Несовместимая сумма.</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(2157993)" onmousedown="clearSelect(2157993)">
+                        <p id="ext_text_2157993"><span class="_reachbanner_" itemprop="reviewBody">Как то не могу разделить восторгов большинства от просмотра этого фильма. Отталкивает всепоглощающая предопределенность сюжета. Излишняя простота приема противопоставления и такой ожидаемый выход. Что может случиться в современном цивилизованном мире с белым и черным, больным и здоровым, бедным и больным? Естественно они найдут точки соприкосновения и преодолевая все видимые и невидимые социальные и психологические преграды сольются в экстазе взаимной эмпатии. Это особенно хорошо заметно на фоне событий в Фергюсоне, резни воинов исламского государства, дружеского братоубийства на востоке Украины. <br>
+<br>
+Какая пронзительная честность сюжета... Абсолютная политкорректность.  Это пустое и слащавое кино, эксплуатирующее чувства среднего зрителя. Конфликт надуман и получается сказка. Но сказки хороши, когда они в своей основе имеют традицию, создающую многослойность восприятия. Здесь же за традицию пытаются выдать умозрительные изобретения европейской бюрократии. И голосующий против такого кино как бы голосует против дружбы, равенства и братства. <br>
+<br>
+Все таки искусство это когда немного больно, а не исключительно правильно.</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/1447279/comment/2157993/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/1447279/comment/2157993/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(2157993); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_2157993" onclick="setCommentVote('2157993', 'ok', '1447279', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_2157993" onclick="setCommentVote('2157993', 'no', '1447279', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_2157993">60 / 52</li>
+        </ul>
+        <i id="comment_num_vote_2157993_note" class="ajax_bottom"></i>
+
+        <span class="date">17 декабря 2014 | 22:43</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_2157993_a"><a class="yes" href="#" onclick="change_review_status(2157993, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_2157993" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_2157993"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_2157993_a" style="display: none"><a class="no" href="#" onclick="change_review_status(2157993, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_2157993_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(2157993, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_2157993" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_2157993" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_2157993">
+        <textarea id="spoiler_textarea_2157993"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(2157993)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(2157993)">
+        <a href="#" onclick="CloseSpoiler(2157993); return false;"></a>
+    </div>
+</div>
+
+
+                <div class="reviewItem userReview" style="width: 555px; position: relative; padding: 1px 0 40px 0" id="_DRAGGABLE_2129579" data-id="2129579">
+    <div id="2129579"></div>
+
+    <div class="response bad" id="div_review_2129579" itemprop="reviews" itemscope="" itemtype="http://schema.org/Review">
+        <meta itemprop="headline" content="Не плохо, но...">
+
+        <div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                            <img data-lazy-src="https://st.kp.yandex.net/images/users/user-no.gif" src="/images/spacer.gif" width="46" alt="" title="" itemprop="image">
+                        <div>
+                <p class="profile_name"><s></s><a href="/user/5066617/" itemprop="name" data-popup-info="disabled">Гронур</a></p>
+                <ul class="actions">
+                    <li class="first"><a href="/user/5066617/comments/">рецензии</a></li>
+                    <li><a href="/user/5066617/votes/">оценки</a></li>
+                    <li><a href="/user/5066617/friends/">друзья</a></li>
+                    <li><a href="/user/5066617/movies/">фильмы</a></li>
+                    <li><a href="/user/5066617/stars/">звёзды</a></li>
+                </ul>
+                <p class="sub_title" id="ext_title_2129579">Не плохо, но...</p>
+            </div>
+        </div>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="brand_words" onmouseup="getSelect(2129579)" onmousedown="clearSelect(2129579)">
+                        <p id="ext_text_2129579"><span class="_reachbanner_" itemprop="reviewBody">Смотрел с удовольствием, смеялся местами. Сначала вроде бы и смешно.<br>
+<br>
+Сюжет: Негр (да простите мне мою не толерантность) с Сенегала (Марокко, Алжир) пытается устроится на работу, даже и не пытается, а просто ходит по вакантным местам и просит поставить печать, что он не подошёл, с целью получать пособие, как безработный. Очередной раз его вдруг берут на работу, нянькой к парализованному миллионеру (миллиардеру) и он начинает там упражняться с ним. Моет его, бреет, смешит, и вдруг они становятся лучшими друзьями.<br>
+<br>
+Впечатления: юмор присутствует, особенно смешно когда 'дерево поёт', про живопись, про 'нет ножек - нет компотика'. Да, чёрный юмор, но смешно. Но когда у Филиппа происходит приступ - я задумался, а вдруг это случилось со мной, или (не дай Бог) с моими родными. Где взяться негру Дриссу у меня? Кто меня спасёт?<br>
+<br>
+Резюме: фильм не плохой, но вот когда кто-то из режиссёров сможет снять фильм про БЕДНОГО инвалида, у которого ничего нет, нет денег, Дрисса, возможностей для отдыха, наслаждений и т.д. и сделает это смешно... вот тогда будет 10 из 10. А пока 6 из 10, но особенно меня поразило, что этот фильм в ТОП 250 выше «Списка Шиндлера», мне кажется что мир сошёл с ума.</span></p>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <p class="links">
+            <a href="/user/5066617/comment/2129579/">прямая ссылка</a>
+            <span class="commentsNumReview one_review"><a href="/user/5066617/comment/2129579/#comm0"><s></s><b>+ комментарий</b><i>добавить комментарий</i></a></span>
+        </p>
+        <ul class="useful">
+            <li>Полезная рецензия?
+                <a class="mod" href="#" onclick="OpenSpoiler(2129579); return false;"><s>пожаловаться на </s>спойлер?</a>
+            </li>
+            <li class="answer">
+                <a href="#" class="vote" id="vote_link_ok_2129579" onclick="setCommentVote('2129579', 'ok', '5066617', '535341'); return false">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_2129579" onclick="setCommentVote('2129579', 'no', '5066617', '535341'); return false">Нет</a>
+            </li>
+            <li id="comment_num_vote_2129579">86 / 78</li>
+        </ul>
+        <i id="comment_num_vote_2129579_note" class="ajax_bottom"></i>
+
+        <span class="date">25 октября 2014 | 21:18</span>
+        <ul class="voter">
+            <li>тип рецензии:</li>
+                                        <li id="li_good_2129579_a"><a class="yes" href="#" onclick="change_review_status(2129579, 'good'); return false;" title="положительная рецензия"></a></li>
+                <li id="li_good_2129579" style="display: none"><span class="yes" title="положительная рецензия"></span></li>
+                <li id="li_bad_2129579"><span class="no" title="отрицательная рецензия"></span></li>
+                <li id="li_bad_2129579_a" style="display: none"><a class="no" href="#" onclick="change_review_status(2129579, 'bad'); return false;" title="отрицательная рецензия"></a></li>
+                <li id="li_neutral_2129579_a" class="nomargin"><a class="neutral" href="#" onclick="change_review_status(2129579, 'neutral'); return false;" title="нейтральная рецензия"></a></li>
+                <li id="li_neutral_2129579" class="nomargin" style="display: none"><span class="neutral" title="нейтральная рецензия"></span></li>
+                                </ul>
+        <i id="change_status_ajax_star_2129579" class="ajax"></i>
+        <strike></strike>    </div>
+    <div class="signer signer_edit" id="spoiler_txt_2129579">
+        <textarea id="spoiler_textarea_2129579"></textarea>
+        <input class="save" type="button" value="отправить" onclick="VoteSpoiler(2129579)">
+        <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(2129579)">
+        <a href="#" onclick="CloseSpoiler(2129579); return false;"></a>
+    </div>
+</div>
+
+
+    
+<div style="height: 24px; overflow: hidden">
+    <div style="position: absolute; margin-top: -40px">
+        <script nonce="" type="text/javascript">
+self_url = "\/film\/535341\/reviews\/ord\/rating\/status\/bad\/perpage\/10\/";
+ancher = '';
+</script>
+<div class="navigator">
+    
+        
+            <div class="show">
+                <u>показывать:</u>
+                <select class="navigator_per_page">
+                    <option value="10" selected="selected">10</option>
+                    <option value="25">25</option>
+                    <option value="50">50</option>
+                    
+                    
+                    
+                </select>
+            </div>
+        
+    
+    
+        <ul class="list">
+            
+                
+                    <li><span>1</span></li>
+                
+            
+                
+                    <li><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/2/">2</a></li>
+                
+            
+                
+                    <li><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/3/">3</a></li>
+                
+            
+                
+                    <li><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/4/">4</a></li>
+                
+            
+                
+                    <li class="arr"><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/2/">»</a></li>
+                
+            
+                
+                    <li class="arr"><a href="/film/535341/reviews/ord/rating/status/bad/perpage/10/page/4/">»»</a></li>
+                
+            
+        </ul>
+    
+    <div class="pagesFromTo">1—10 из 36</div>
+</div>
+
+    </div>
+</div>
+
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                                                <tr>
+    <td height="100%" valign="top">
+        <table cellspacing="0" cellpadding="0" border="0" id="tbl_preview" style="display: none">
+            <tbody>
+            <tr>
+                <td align="center" style="padding-left: 20px">
+                    <table style="width: 555px" cellspacing="0" cellpadding="10" border="0" bgcolor="#e5e5f0">
+                        <tbody>
+                        <tr>
+                            <td class="news"><b style="color: #999">-- предварительный просмотр --</b></td>
+                        </tr>
+                        <tr>
+                            <td class="news" align="left"><h4 class="preview_title" id="preview_title"></h4></td>
+                        </tr>
+                        <tr>
+                            <td class="news" align="left" id="preview_text">
+                                <div class="preview_textWrap"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="news"><b style="color: #999">-- предварительный просмотр --</b></td>
+                        </tr>
+                        <tr>
+                            <td align="center"><input type="button" class="button_mykp" value="отправить" id="btn_preview_approve"></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <script type="text/javascript" src="https://st.kp.yandex.net/js/get_count_word.js?v=1"></script>
+        <script type="text/javascript" src="https://st6.kp.yandex.net/js/rules.js?v=1?v=1" charset="utf-8"></script>
+        <script type="text/javascript" src="https://st2.kp.yandex.net/js/scroller.js?v=1"></script>
+        <script nonce="" type="text/javascript">function getUserVote() {
+                return '';
+            }</script>
+
+        <form accept-charset="cp1251" class="response" name="" id="forma" action="" method="post">
+            <img src="https://st.kp.yandex.net/images/users/user-no.gif" alt="">
+            <div>
+                                    <p class="links">Для того чтобы добавить рецензию на фильм, необходимо
+                        <br>
+                        <a href="/reviews/film/535341/#login" class="js-external-login-action" data-popup-info="disabled">
+                            войти на сайт
+                        </a>
+                    </p>
+                                <p>
+                    <input class="bold" type="button" value="Ж" id="bb_code_b" disabled="">
+                    <input class="italic" type="button" value="К" id="bb_code_i" disabled="">
+                </p>
+            </div>
+            <span>Заголовок:</span>
+            <input class="text" type="text" name="" id="review_title" value="" disabled="">
+            <span>Текст:</span>
+            <textarea cols="1" rows="1" name="" id="review_text" disabled=""></textarea>
+            <select name="" id="sb_review_status" disabled="">
+                <option value="">- тип рецензии -</option>
+                <option value="good">положительная</option>
+                <option value="bad">отрицательная</option>
+                <option value="neutral">нейтральная</option>
+            </select>
+            <div id="captcha-container" class="smart-captcha" data-sitekey="NMyC8z0E9xxOsftzHqMRLRZoarUXz6IeKuQTy72H" style="margin-bottom: 20px; height: 102px;" data-testid="smartCaptcha-container"><div style="display: none;"><iframe frameborder="0" src="https://captcha-api.yandex.ru/backend.800d8fe02dbce3f325c9.html?sitekey=NMyC8z0E9xxOsftzHqMRLRZoarUXz6IeKuQTy72H&amp;hl=en&amp;host=www.kinopoisk.ru&amp;test=false&amp;webview=false&amp;hideChallengeContainer=false" style="display: block; width: 100%; height: 100%; z-index: 0; transform: translate3d(0px, 0px, 0px);" aria-hidden="true" allow="encrypted-media *;" data-testid="backend-iframe" title="SmartCaptcha backend"></iframe></div><input type="hidden" name="smart-token" data-testid="smart-token"><iframe frameborder="0" src="https://captcha-api.yandex.ru/checkbox.en.c1f6a633bfd837d17265.html?sitekey=NMyC8z0E9xxOsftzHqMRLRZoarUXz6IeKuQTy72H&amp;hl=en&amp;host=www.kinopoisk.ru&amp;test=false&amp;webview=false&amp;hideChallengeContainer=false" style="display: block; width: 100%; height: 100%; z-index: 0; transform: translate3d(0px, 0px, 0px);" aria-hidden="false" allow="encrypted-media *;" data-testid="checkbox-iframe" title="SmartCaptcha checkbox widget"></iframe></div>
+            <p>
+            <input class="submit nice_button" type="button" id="btn_review_add" value="отправить" disabled="">
+            <input class="preview nice_button" type="button" id="btn_review_preview" value="предварительный просмотр" disabled="">
+            </p>
+            <p class="link"><a href="/action/rulesofreviews/" target="_blank" id="btn_review_rules">Перед публикацией
+                    рецензии ознакомьтесь с правилами...</a></p>
+
+        </form>
+
+        <style type="text/css">
+            .darkScreen {
+                background: #000;
+                width: 100%;
+                height: 100%;
+                position: fixed;
+                top: 0;
+                left: 0;
+                z-index: 1000;
+                opacity: 0.7;
+                filter: alpha(opacity=70)
+            }
+
+            .popupNew {
+                background: url(https://st8.kp.yandex.net/images/spacer.gif?v=1);
+                width: 100%;
+                height: 100%;
+                border-collapse: collapse;
+                position: fixed;
+                top: 0;
+                left: 0;
+                z-index: 1001
+            }
+
+            .popupNew td {
+                color: #333;
+                font-family: arial;
+                font-size: 11px;
+                vertical-align: middle;
+                padding: 0
+            }
+
+            .popupNew .block {
+                background: #fff url(https://st6.kp.yandex.net/images/popupNewBottom.gif?v=1) 0 100% repeat-x;
+                width: 326px;
+                min-height: 1px;
+                position: relative;
+                margin: 0 auto;
+                padding: 18px 27px 27px 27px;
+                box-shadow: #333 0 5px 50px
+            }
+
+            .popupNew .title {
+                font-size: 15px;
+                font-weight: bold;
+                margin-bottom: 11px
+            }
+
+            .popupNew .text {
+                font-size: 12px;
+                margin-bottom: 15px
+            }
+
+            .popupNew .formText {
+                width: 155px;
+                height: 20px;
+                border: 1px #aaa solid;
+                border-top-color: #555;
+                border-left-color: #555;
+                margin: 0 3px 5px 0;
+                padding: 0 3px
+            }
+
+            .popupNew .formText input {
+                background: none;
+                width: 155px;
+                height: 14px;
+                color: #333;
+                font-size: 11px;
+                border: none;
+                padding: 3px 0
+            }
+
+            .popupNew .formButton {
+                clear: left;
+                margin-left: -1px
+            }
+
+            .popupNew .formButton input {
+                color: #333;
+                font-family: arial;
+                font-size: 11px;
+                cursor: pointer;
+                padding: 2px 10px
+            }
+
+            .popupNew .formButton input[disabled] {
+                color: #999;
+                cursor: default
+            }
+
+            @-moz-document url-prefix() {
+                .popupNew .formButton input {
+                    padding: 0 5px
+                }
+            }
+
+            .popupNew .close {
+                background: url(https://st3.kp.yandex.net/images/close45.gif?v=1);
+                width: 14px;
+                height: 14px;
+                cursor: pointer;
+                position: absolute;
+                top: 21px;
+                right: 24px
+            }
+
+            .popupNew .reviewConfirm {
+                width: 100%;
+                border-collapse: collapse;
+                border: 1px #ccc solid;
+                margin-bottom: 20px
+            }
+
+            .popupNew .reviewConfirm * {
+                margin: 0;
+                padding: 0
+            }
+
+            .popupNew .reviewConfirm th {
+                text-align: left;
+                padding: 6px 5px 6px 10px
+            }
+
+            .popupNew .reviewConfirm td {
+                border-top: 1px #ccc dotted;
+                padding: 4px 5px 5px 10px
+            }
+
+            .popupNew .reviewConfirm label {
+                min-height: 1px;
+                display: inline-block;
+                position: relative;
+                padding-left: 17px
+            }
+
+            .popupNew .reviewConfirm label input {
+                position: absolute;
+                top: 0;
+                left: 0
+            }
+
+            .popupNew .reviewConfirmDots {
+                height: 8px;
+                overflow: hidden
+            }
+
+            .popupNew .reviewConfirmDots .item {
+                background: #fff;
+                width: 6px;
+                height: 6px;
+                border: 1px #999 solid;
+                border-radius: 5px;
+                cursor: pointer;
+                overflow: hidden;
+                float: left;
+                margin-right: 5px
+            }
+
+            .popupNew .reviewConfirmDots .active {
+                background: #999;
+                cursor: default
+            }
+        </style>
+        <!--[if IE]>
+        <style type="text/css">
+            .popupNew .block {
+                border: 3px #b0b0b0 solid;
+                border-bottom-width: 1px
+            }
+        </style>
+        <![endif]-->
+
+        <div class="darkScreen" id="review_test_bg" style="display: none"></div>
+        <table class="popupNew" id="review_test_tbl" style="display: none">
+            <tbody>
+            <tr>
+                <td>
+                    <div class="block">
+                        <div class="title">Подтвердите просмотр фильма</div>
+                        <div class="text">Ответьте на несколько простых вопросов о фильме для подтверждения его
+                            просмотра вами.
+                        </div>
+                        <table class="reviewConfirm"></table>
+                        <div class="reviewConfirmDots"></div>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+
+                    </tbody></table>
+
+        </td></tr></tbody></table>
+        </div></td>
+                <!-- Правая сторона -->
+
+<td height="100%" bgcolor="#ffffff" valign="top" class="_noreachbanner_" id="block_right_wrapper">
+<div id="block_right" class="right-sidebar no_padds">
+    
+<!-- right_banner start -->
+<div id="loadb_" class="right-sidebar__banner">
+    <script nonce="" type="text/javascript">
+        advBlock({
+            id: 251518,
+            type: "adfox",
+            name: "sidebar_top",
+            adfoxParams: {
+                pt: "b",
+                pp: "g",
+                ps: "cjby",
+                p2: "fkyg",
+                pct: "a",
+                pfc: "a",
+                pfb: "a"
+            },
+            priority: 90,
+            useCustomStyles: true ,
+            rum: {
+                placeId: '1203', // right
+                bannerId: '2930', // adfox
+            },
+        });
+    </script><!-- adfox 251518 --><div id="yandex__adfox_251518_1696925900691" class=" kp-direct-customize"><div id="yandex_rtb_3391149486" class="UZznxc yandex_rtb_R-A-238724-4"><yatag class="ocaa72b3e tf629f557"><style type="text/css">.tf629f557{opacity: !important;white-space:normal !important;visibility:visible !important}.tf629f557,.tf629f557 yatag{display:block !important;font-family:inherit !important;font-weight:inherit !important}.tf629f557,.tf629f557,.tf629f557 a,.tf629f557 b,.tf629f557 em,.tf629f557 iframe,.tf629f557 img,.tf629f557 table,.tf629f557 tbody,.tf629f557 td,.tf629f557 tr,.tf629f557 yatag{-webkit-box-sizing:content-box !important;box-sizing:content-box !important;color:inherit !important;font-size:inherit !important;-webkit-hyphens:manual !important;hyphens:manual !important;-webkit-transition:none !important;-o-transition:none !important;transition:none !important}.tf629f557,.tf629f557 a,.tf629f557 b,.tf629f557 em,.tf629f557 iframe,.tf629f557 img,.tf629f557 table,.tf629f557 tbody,.tf629f557 td,.tf629f557 tr{background:none !important;border:none !important;border-radius:0 !important;border-spacing:0 !important;border-collapse:collapse !important;clear:none !important;float:none !important;-webkit-font-feature-settings:normal !important;font-feature-settings:normal !important;font-variant:normal !important;font-weight:inherit !important;letter-spacing:normal !important;line-height:normal !important;margin:0 !important;max-height:none !important;max-width:none !important;min-height:0 !important;min-width:0 !important;outline:none !important;padding:0 !important;position:static !important;text-align:left !important;text-decoration:none !important;text-indent:0 !important;text-transform:none !important;vertical-align:baseline !important;visibility:inherit !important;word-spacing:normal !important}.tf629f557,.tf629f557 a,.tf629f557 b,.tf629f557 em,.tf629f557 img,.tf629f557 table,.tf629f557 tbody,.tf629f557 td,.tf629f557 tr{height:auto !important}.tf629f557 table{display:table !important;empty-cells:hide !important;table-layout:fixed !important}.tf629f557 table,.tf629f557 td{font-size:100% !important}.tf629f557 td{display:table-cell !important;vertical-align:middle !important}.tf629f557{width:auto !important;height:auto !important;overflow:visible !important}.tf629f557 .w25087573{position:relative !important;margin:auto !important;display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important;-webkit-box-pack:center !important;-ms-flex-pack:center !important;justify-content:center !important;-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;overflow:hidden !important;-webkit-box-sizing:border-box !important;box-sizing:border-box !important}.tf629f557 .m22db7953{padding:10px 16px 20px !important}.tf629f557 .rb29aa21c,.tf629f557 .i1a66443e{position:absolute !important;z-index:1 !important;top:0 !important;left:0 !important;right:0 !important;bottom:0 !important;width:100% !important;height:100% !important;display:none !important}.tf629f557 .fa63479fb{width:100% !important;height:100% !important;position:absolute !important;pointer-events:none !important}.tf629f557 .pe7674674{position:relative !important;z-index:2 !important}.tf629f557 .xf79ad243{position:relative !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important;-webkit-transform-origin:0 0 !important;transform-origin:0 0 !important}.tf629f557 .xf79ad243 iframe{position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.tf629f557 .t3808b25c{position:absolute !important;width:100% !important;right:0 !important;top:0 !important;z-index:20 !important}.tf629f557 .s57be8044{position:absolute !important;z-index:21 !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.tf629f557 .wab65e4b6{position:absolute !important;top:0 !important;left:0 !important;z-index:10 !important;height:16px !important;padding:0 4px !important;font-size:11px !important;line-height:16px !important;color:#000 !important;text-decoration:none !important;background:#fff !important;border:1px solid #e5e5e5 !important;border-bottom-right-radius:3px !important;cursor:pointer !important}.tf629f557 .kfaa85ff2{border:1px solid #303050 !important}.tf629f557 .a4c028c16{max-width:100% !important;max-height:100% !important}.tf629f557 .a4c028c16 .rb29aa21c,.tf629f557 .a4c028c16 .i1a66443e{display:block !important}.tf629f557 .a4c028c16 .i1a66443e{-webkit-filter:blur(10px) saturate(0) contrast(400%) !important;filter:blur(10px) saturate(0) contrast(400%) !important}.tf629f557 .a4c028c16 .rb29aa21c{background-color:rgba(38,38,38,.9) !important}.tf629f557 .v2b7aca04,.tf629f557 .m6238916c{visibility:hidden !important;opacity:0 !important}.tf629f557 .m6238916c{max-width:1px !important;max-height:1px !important}.tf629f557 .e7dedf0b6{position:absolute !important;bottom:20px !important;left:16px !important;right:16px !important;z-index:3 !important;display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important}.tf629f557 .h2e2203e5{height:48px !important;line-height:48px !important;font-size:16px !important;border-radius:8px !important;text-align:center !important;font-weight:700 !important;-ms-flex-item-align:stretch !important;align-self:stretch !important;padding:0 20px !important;white-space:nowrap !important;min-width:0 !important}.tf629f557 .u4858dc1e{background:-webkit-gradient(linear,left top,left bottom,from(#efefef),to(#e5e5e5)) !important;background:-o-linear-gradient(top,#efefef 0,#e5e5e5 100%) !important;background:linear-gradient(180deg,#efefef,#e5e5e5) !important;margin-right:8px !important;-webkit-box-flex:2 !important;-ms-flex:2 1 !important;flex:2 1 !important}.tf629f557 .d7c1b5d40{background:-webkit-gradient(linear,left top,right top,color-stop(-40%,#f60),color-stop(20%,rgba(255,102,0,0))),-webkit-gradient(linear,right top,left top,color-stop(-40%,#f60),color-stop(20%,rgba(255,102,0,0))),-webkit-gradient(linear,left bottom,left top,color-stop(-80%,#f60),color-stop(80%,#fd0)) !important;background:-o-linear-gradient(left,#f60 -40%,rgba(255,102,0,0) 20%),-o-linear-gradient(right,#f60 -40%,rgba(255,102,0,0) 20%),-o-linear-gradient(bottom,#f60 -80%,#fd0 80%) !important;background:linear-gradient(90deg,#f60 -40%,rgba(255,102,0,0) 20%),linear-gradient(270deg,#f60 -40%,rgba(255,102,0,0) 20%),linear-gradient(0deg,#f60 -80%,#fd0 80%) !important;-webkit-box-flex:3 !important;-ms-flex:3 1 !important;flex:3 1 !important}.tf629f557 .cf05cffaa{display:inline-block !important;margin-left:8px !important}.tf629f557 .j5f8887e9{position:absolute !important;top:0 !important;left:0 !important;bottom:0 !important;right:0 !important;z-index:4 !important}.tf629f557 .be0ba2243{position:absolute !important;left:-1000px !important;top:-1000px !important;width:1px !important;height:1px !important;display:block !important}.tf629f557 .a349d4e17{cursor:pointer !important;position:absolute !important;right:4px !important;top:4px !important;z-index:10 !important}.tf629f557 .a349d4e17.n4fdabdf2{position:relative !important;right:unset !important;top:unset !important}.tf629f557 .a349d4e17.i286cc1f7{overflow:hidden !important}.tf629f557 .a91495782.a349d4e17{display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important;-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;-webkit-box-pack:center !important;-ms-flex-pack:center !important;justify-content:center !important;pointer-events:auto !important;border-radius:50% !important;-webkit-user-select:none !important;-moz-user-select:none !important;-ms-user-select:none !important;user-select:none !important;-webkit-tap-highlight-color:transparent !important}.tf629f557 .a91495782.a349d4e17:before{content:"" !important;position:absolute !important;top:-4px !important;left:50% !important;-webkit-transform:translateX(-50%) !important;transform:translateX(-50%) !important}.tf629f557 .a91495782.a349d4e17.n4fdabdf2:before{top:50% !important;-webkit-transform:translate(-50%,-50%) !important;transform:translate(-50%,-50%) !important}.tf629f557 .a91495782.a349d4e17.f95a739d9:hover{background-color:unset!important}.tf629f557 .a91495782.a349d4e17:hover .pfd0f87a7{opacity:.8 !important}.tf629f557 .a91495782.a349d4e17.r5bc49c2c .pfd0f87a7{background-color:#fff !important;opacity:.8 !important}.tf629f557 .a91495782.a349d4e17.r5bc49c2c .c605fde9 svg{fill:#575c66 !important}.tf629f557 .a91495782.a349d4e17.u900f29b4 .pfd0f87a7,.tf629f557 .a91495782.a349d4e17.fc36c12d6 .pfd0f87a7{background:none !important}.tf629f557 .a91495782.a349d4e17.u900f29b4:hover{background-color:#e9e9e9 !important}.tf629f557 .a91495782.a349d4e17.fc36c12d6:hover{background-color:rgba(248,250,255,.2) !important}.tf629f557 .a91495782.a349d4e17 .c605fde9 svg{fill:var(--tertiary-color) !important}.tf629f557 .a91495782.g90a5ba79{width:12px !important;height:12px !important}.tf629f557 .a91495782.g90a5ba79:before{width:28px !important;height:28px !important}.tf629f557 .a91495782.g90a5ba79 .c605fde9{-webkit-transform:scale(.6) !important;transform:scale(.6) !important}.tf629f557 .a91495782.k22581241{width:16px !important;height:16px !important}.tf629f557 .a91495782.k22581241:before{width:32px !important;height:32px !important}.tf629f557 .a91495782.k22581241 .c605fde9{-webkit-transform:scale(.8) !important;transform:scale(.8) !important}.tf629f557 .a91495782.yc3b1f61f{width:24px !important;height:24px !important}.tf629f557 .a91495782.yc3b1f61f:before{width:42px !important;height:42px !important}.tf629f557 .a91495782.g61341a7e{width:28px !important;height:28px !important}.tf629f557 .a91495782.g61341a7e:before{width:42px !important;height:42px !important}.tf629f557 .a91495782.m49e98026{width:32px !important;height:32px !important}.tf629f557 .a91495782.m49e98026:before{width:48px !important;height:48px !important}.tf629f557 .pfd0f87a7{height:100% !important;width:100% !important;position:absolute !important;top:0 !important;left:0 !important;z-index:-1 !important;border-radius:inherit !important;-webkit-transition:opacity .15s !important;-o-transition:opacity .15s !important;transition:opacity .15s !important;-webkit-transition:background-color .5s ease-in-out !important;-o-transition:background-color .5s ease-in-out !important;transition:background-color .5s ease-in-out !important;color:var(--secondary-color) !important;background:var(--label-bg-color) !important}.tf629f557 .pfd0f87a7.k88229128:hover{opacity:.5 !important}.tf629f557 .pfd0f87a7.xaa90e8ca:hover{opacity:.9 !important}.tf629f557 .pfd0f87a7.g1e6891ed{background:none !important}.tf629f557 .a91495782 .c605fde9{display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important;-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;-webkit-box-pack:center !important;-ms-flex-pack:center !important;justify-content:center !important;pointer-events:none !important;-webkit-transition:fill .5s ease-in-out !important;-o-transition:fill .5s ease-in-out !important;transition:fill .5s ease-in-out !important}.tf629f557 .a91495782 .c605fde9 svg{fill:var(--tertiary-color) !important}@-webkit-keyframes qc9748407{0%,to{opacity:0 !important;visibility:hidden !important}4%,96%{visibility:visible !important;opacity:1 !important}}@keyframes qc9748407{0%,to{opacity:0 !important;visibility:hidden !important}4%,96%{visibility:visible !important;opacity:1 !important}}.tf629f557 .a9f692e{margin-left:2px !important;pointer-events:auto !important;font-family:inherit !important;position:relative !important;-ms-flex-item-align:center !important;align-self:center !important}.tf629f557 .p762345cb>.a9f692e:first-child{margin-left:0 !important}.tf629f557 .a9f692e.bab8b0b78{margin-right:2px !important;margin-left:0 !important}.tf629f557 .p762345cb>.a9f692e.bab8b0b78:first-child{margin-right:0 !important}.tf629f557 .p762345cb{display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important;-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;cursor:pointer !important;position:absolute !important;left:4px !important;top:4px !important;z-index:10 !important;font-family:YS Text Variable,Helvetica,Arial,sans-serif !important;white-space:nowrap !important;height:12px !important;line-height:normal !important;-webkit-box-sizing:border-box !important;box-sizing:border-box !important;padding:0 4px !important;border-radius:16px !important;font-size:8px !important;text-transform:uppercase !important;letter-spacing:.125em !important;pointer-events:none !important;text-decoration:none !important;-webkit-transition:color .5s ease-in-out !important;-o-transition:color .5s ease-in-out !important;transition:color .5s ease-in-out !important;color:var(--secondary-color) !important;background:var(--label-bg-color) !important}.tf629f557 .p762345cb.m1e779009{padding:0 1px 0 4px !important}.tf629f557 .p762345cb.bab8b0b78.m1e779009{padding:0 4px 0 1px !important}.tf629f557 .p762345cb.u9d37acdd,.tf629f557 .p762345cb.bab8b0b78.u9d37acdd{padding:0 !important}.tf629f557 .p762345cb>a{text-decoration:none !important;color:inherit !important}.tf629f557 .p762345cb.r5bc49c2c{color:rgba(87,92,102,.8) !important;background-color:hsla(0,0%,100%,.8) !important}.tf629f557 .p762345cb.qfc918ab,.tf629f557 .p762345cb.d62cb6d17{top:auto !important;left:auto !important;right:0 !important;bottom:0 !important;background:none !important;text-shadow:none !important;font-size:7px !important;padding:0 !important;height:auto !important;opacity:.8 !important;-webkit-backdrop-filter:none !important;backdrop-filter:none !important}.tf629f557 .p762345cb.g1e6891ed{background:none !important}.tf629f557 .p762345cb.e4c23a1bb{max-width:calc(100% - 42px) !important}.tf629f557 .p762345cb:empty{display:none !important}.tf629f557 .j41d93be4{margin:0 2px !important}.tf629f557 .p762345cb>.j41d93be4:first-child{display:none !important}.tf629f557 .l96a69da8{text-decoration:none !important;pointer-events:auto !important;color:inherit !important}.tf629f557 .x13bac943{display:none !important;position:absolute !important;-webkit-box-sizing:border-box !important;box-sizing:border-box !important;z-index:10 !important}.tf629f557 .x13bac943 [data-tooltip-arrow]{display:block !important;position:absolute !important;width:24px !important;height:8px !important}.tf629f557 .x13bac943 [data-tooltip-arrow] svg{position:absolute !important;top:0 !important;left:0 !important}.tf629f557 .x13bac943[data-show=true]{display:block !important}.tf629f557 .k468e612e{position:relative !important;pointer-events:auto !important}.tf629f557 .dea808b8e,.tf629f557 .q846fee50{background-color:#2f2f32 !important;z-index:10000 !important;border-radius:6px !important}.tf629f557 .dea808b8e [data-tooltip-arrow] svg path,.tf629f557 .q846fee50 [data-tooltip-arrow] svg path{fill:#2f2f32 !important}.tf629f557 .dea808b8e .h89bc2532,.tf629f557 .q846fee50 .h89bc2532{font-family:YS Text Variable,Helvetica,Arial,sans-serif !important;position:relative !important;color:#fff !important;font-size:13px !important;line-height:16px !important;text-transform:none !important;font-weight:400 !important;text-decoration:none !important;letter-spacing:normal !important}.tf629f557 .dea808b8e .h89bc2532 .k10888a5,.tf629f557 .q846fee50 .h89bc2532 .k10888a5{position:absolute !important;top:0 !important;right:-24px !important}.tf629f557 .dea808b8e{padding:5px 8px 7px !important}.tf629f557 .q846fee50{padding:5px 36px 7px 8px !important}.tf629f557 .lfe32d270{display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important;-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;-webkit-box-pack:center !important;-ms-flex-pack:center !important;justify-content:center !important}.tf629f557 .t494c1e6e svg path:first-child{fill:#737b8c !important}.tf629f557 .hec3a844c svg path:first-child{fill:#fff !important}.tf629f557 .hec3a844c svg path:last-child{fill:#23314c !important}</style><yatag class="be0ba2243"></yatag><yatag class="w25087573 h367034c7"><yatag style="width: 240px !important; height: 400px !important;" class="pe7674674"><yatag id="ya_partner_R-A-238724-4-1472442211" style="width: 240px !important; height: 400px !important;" class="xf79ad243"><div></div></yatag><yatag class="p762345cb m1e779009 r5bc49c2c oe7de3b93" data-test="AdKebabAndLabel--adLabelContent" data-label="true"><span>Реклама</span><span class="j41d93be4">•</span><span>16+</span><span class="a9f692e"><yatag class="k468e612e"><yatag class="lfe32d270 t494c1e6e" data-tooltip="" data-tooltip-target-id="id179021696925902539" data-tooltip-position="top"><svg width="10" height="10" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 8a8 8 0 1116 0A8 8 0 010 8z" fill="#B9BDC6"></path><path d="M9.133 12.817h1.67v-9.6h-2.43c-2.445 0-3.73 1.257-3.73 3.107 0 1.478.705 2.349 1.962 3.247l-2.183 3.246h1.81l2.43-3.633-.842-.567c-1.022-.69-1.52-1.229-1.52-2.39 0-1.021.72-1.712 2.087-1.712h.746v8.302z" fill="#fff"></path></svg></yatag></yatag></span></yatag><yatag><yatag data-close="true" data-new-adtune="true" data-sticky-adtune="false" class="a91495782 a349d4e17 r5bc49c2c yc3b1f61f hc6ef1810" language="1" hidelabel="true"><yatag class="pfd0f87a7 f1b1c8511 g1e6891ed"></yatag><yatag class="c605fde9"><svg width="8" height="20" viewBox="0 0 8 20" fill="white" xmlns="http://www.w3.org/2000/svg"><circle cx="4" cy="4" r="1.5"></circle><circle cx="4" cy="10" r="1.5"></circle><circle cx="4" cy="16" r="1.5"></circle></svg></yatag></yatag></yatag><yatag class="x13bac943 dea808b8e" id="id179021696925902539"><yatag class="h89bc2532">Работает на технологиях Яндекса</yatag><yatag data-tooltip-arrow=""><svg width="24" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 8c6 0 9-8 12-8s6 8 12 8H0z" fill="#fff"></path></svg></yatag></yatag></yatag></yatag></yatag></div></div>
+</div>
+
+<!-- right_banner end -->
+<dl class="block block_review">
+   <dt>Новые рецензии<i>всего</i></dt>
+   <dd class="dl"><a href="/film/17197/"><b></b><i><s>Покушение в Сараево</s>Atentat u Sarajevu</i><u>1</u></a></dd>
+
+<dd class="dl"><a href="/film/1043206/"><b></b><i><s>Иди ко мне, детка</s>She Came to Me</i><u>1</u></a></dd>
+
+<dd class="dl"><a href="/series/5297125/"><b></b><i><s>Она много лет не была главной героиней</s>Ta bu dang nu zhu hen duo nian</i><u>1</u></a></dd>
+
+<dd class="dl"><a href="/film/4541527/"><b></b><i><s>Великая ирония</s>Coup de chance</i><u>7</u></a></dd>
+
+<dd class="dl"><a href="/series/1189849/"><b></b><i><s>Вспыльчивый священник</s>Yeolhyeolsaje</i><u>5</u></a></dd>
+
+
+</dl>
+    <dl class="block block_top250">
+        <dt>
+            <a class="headerLink" href="/lists/top250/"></a>Лучшие фильмы — Top 250
+        </dt>
+                    <dd class="dl">
+                <a href="/film/45314/">
+                    <b>214.</b>
+                    <i><s>Жестокий романс</s></i>
+                    <u>8.055</u>
+                </a>
+            </dd>
+                    <dd class="dl">
+                <a href="/film/835086/">
+                    <b>215.</b>
+                    <i><s>Ford против Ferrari</s>Ford v Ferrari</i>
+                    <u>8.052</u>
+                </a>
+            </dd>
+                    <dd class="dl">
+                <a href="/film/808639/">
+                    <b>216.</b>
+                    <i><s>Дурак</s></i>
+                    <u>8.052</u>
+                </a>
+            </dd>
+                    <dd class="dl">
+                <a href="/film/279880/">
+                    <b>217.</b>
+                    <i><s>Подмена</s>Changeling</i>
+                    <u>8.052</u>
+                </a>
+            </dd>
+                    <dd class="dl">
+                <a href="/film/424153/">
+                    <b>218.</b>
+                    <i><s>Тэмпл Грандин</s>Temple Grandin</i>
+                    <u>8.052</u>
+                </a>
+            </dd>
+                <dd class="more">
+            <a href="/lists/top250/">лучшие фильмы</a>
+        </dd>
+    </dl>
+    <dl class="block block_top250">
+        <dt>
+            <a class="headerLink" href="/comingsoon/"></a>Ожидаемые фильмы
+        </dt>
+                    <dd class="dl">
+                <a href="/film/1436449/">
+                    <b>6.</b>
+                    <i><s>Три мушкетёра: Миледи</s>Les trois mousquetaires: Milady</i>
+                    <u>95.32%</u>
+                </a>
+            </dd>
+                    <dd class="dl">
+                <a href="/film/5047464/">
+                    <b>7.</b>
+                    <i><s>Бременские музыканты</s></i>
+                    <u>92.01%</u>
+                </a>
+            </dd>
+                    <dd class="dl">
+                <a href="/film/1334852/">
+                    <b>8.</b>
+                    <i><s>Сто лет тому вперёд</s></i>
+                    <u>91.35%</u>
+                </a>
+            </dd>
+                    <dd class="dl">
+                <a href="/film/5047468/">
+                    <b>9.</b>
+                    <i><s>Холоп&nbsp;2</s></i>
+                    <u>90.86%</u>
+                </a>
+            </dd>
+                    <dd class="dl">
+                <a href="/film/660906/">
+                    <b>10.</b>
+                    <i><s>Самая большая луна</s></i>
+                    <u>88.52%</u>
+                </a>
+            </dd>
+                <dd class="more">
+            <a href="/comingsoon/">ожидаемые фильмы</a>
+        </dd>
+    </dl>
+<dl class="block block_show">
+    <dt><a class="headerLink" href="/afisha/new/city/483/"></a>Сегодня в кино<i>рейтинг</i></dt>
+        <dd class="more"><a href="/afisha/new/city/483/">афиша</a></dd>
+</dl>
+<dl class="block block_soon">
+   <dt><a class="headerLink" href="/premiere/ru/"></a>Скоро в кино<i>премьера</i></dt>
+<dd class="dl"><a href="/film/1009254/"><b></b><i><s>Повезло с братом</s>Geugeotmani nae sesang</i><u>12.10</u></a></dd>
+
+<dd class="dl"><a href="/film/586584/"><b></b><i><s>Семь психопатов</s>Seven Psychopaths</i><u>19.10</u></a></dd>
+
+<dd class="dl"><a href="/film/4910679/"><b></b><i><s>Анатомия падения</s>Anatomie d'une chute</i><u>19.10</u></a></dd>
+
+<dd class="dl"><a href="/film/388/"><b></b><i><s>Расёмон</s>Rashomon</i><u>02.11</u></a></dd>
+
+<dd class="dl"><a href="/film/4778462/"><b></b><i><s>Нефариус</s>Nefarious</i><u>09.11</u></a></dd>
+
+   <dd class="more"><a href="/premiere/ru/">премьеры</a></dd>
+</dl>
+<div class="social-teasers">
+    <a href="https://telegram.me/kinopoisk" class="social-teasers__link" id="social_teaser_link" data-image-url="https://st.kp.yandex.net/public/img/fe/social-teasers/telegram/6.png?v=1" style="background-image:url(https://st.kp.yandex.net/public/img/fe/social-teasers/telegram/6.png?v=1);" target="_blank"></a>
+</div>
+<div class="randomMovie">
+   <div class="title"></div>
+   <div class="pic"><a href="/level/1/film/4523/"><img src="https://st.kp.yandex.net/images/chance/1727566.jpg" alt="Марафонец"><span class="name"><u>Марафонец</u> Marathon Man, 1976</span></a></div>
+   <div class="all"><a href="/chance/"><s></s>другой случайный фильм</a></div>
+</div>
+
+    <!-- Яндекс.Директ -->
+    <div class="right-sidebar__sticky-ad-banner" id="js-right-sidebar__sticky-ad">
+        <script nonce="" type="text/javascript">
+            (function() {
+                var isDebug = location.hostname.indexOf('dev.kinopoisk.ru') !== -1;
+                var stickyAdBannerId = 'js-right-sidebar__sticky-ad';
+                var $stickyAdBanner = $('#' + stickyAdBannerId);
+                var MIN_AVAILABLE_HEIGHT = 800;
+
+                function hasAvailableHeight() {
+                    var blockRightWrapperHeight = $('#block_right_wrapper').innerHeight();
+                    var blockRightHeight = $('#block_right').innerHeight();
+                    var availableHeight = Math.round(blockRightWrapperHeight - blockRightHeight);
+                    if (availableHeight < MIN_AVAILABLE_HEIGHT && isDebug) {
+                        console.log(
+                            'Place for #js-right-sidebar__sticky-ad has not enough height for showing (' +
+                            availableHeight + 'px < ' + MIN_AVAILABLE_HEIGHT + 'px). ' +
+                            'Banner was hidden.'
+                        );
+                    }
+                    return availableHeight >= MIN_AVAILABLE_HEIGHT;
+                }
+
+                advBlock({
+                    id: isKUB() ? 'R-A-53100-32' : 'R-A-53100-20',
+                    type: 'direct',
+                    name: 'sidebar_bottom_sticky',
+                    onRender: function () {
+                        if (!bd_mobile_detector.isMobile()) {
+                            initStickyAdBehaviour();
+                        }
+
+                        $('#js-right-sidebar__sticky-ad').show();
+                    },
+                    shouldRender: function () {
+                        return hasAvailableHeight();
+                    },
+                    useCustomStyles: true,
+                    priority: 80,
+                    rum: {
+                        placeId: '1203', // right
+                        bannerId: '155', // direct
+                    },
+                });
+
+                function initStickyAdBehaviour() {
+                    var $stickyAd = $('#js-right-sidebar__sticky-ad');
+                    var $blockRightWrapper = $('#block_right_wrapper');
+                    var $rightBlock = $('#block_right');
+                    var TOP_MENU_HEIGHT = 30;
+                    var BOX_MARGIN = 10;
+                    $(window).on('scroll', function (evt) {
+                        if (!$stickyAdBanner.is(':visible')) {
+                            return;
+                        }
+                        var bottomPos = $blockRightWrapper.offset().top + $blockRightWrapper.height() - BOX_MARGIN;
+                        var stickBoxPosition = $rightBlock.offset().top + $rightBlock.height();
+                        var scrollTop = $(window).scrollTop() + TOP_MENU_HEIGHT;
+                        var stickBoxHeight = $stickyAd.height();
+                        var stickedBoxBottomPos = scrollTop + stickBoxHeight + BOX_MARGIN;
+                        // decrease height if right block if box fixed
+                        if (!$('.right-sidebar__sticky-ad_fixed').length && !$('.right-sidebar__sticky-ad_fixed_bottom').length) {
+                            stickBoxPosition = stickBoxPosition - stickBoxHeight - BOX_MARGIN;
+                        }
+                        // fixed position
+                        if (scrollTop >= stickBoxPosition && stickedBoxBottomPos < bottomPos) {
+                            $stickyAd.removeClass('right-sidebar__sticky-ad_fixed_bottom');
+                            $stickyAd.addClass('right-sidebar__sticky-ad_fixed');
+                        // bottom position
+                        } else if (scrollTop >= stickBoxPosition && stickedBoxBottomPos >= bottomPos) {
+                            $stickyAd.removeClass('right-sidebar__sticky-ad_fixed');
+                            $stickyAd.addClass('right-sidebar__sticky-ad_fixed_bottom');
+                        // stable position
+                        } else if (scrollTop < stickBoxPosition) {
+                            $stickyAd.removeClass('right-sidebar__sticky-ad_fixed_bottom');
+                            $stickyAd.removeClass('right-sidebar__sticky-ad_fixed');
+                        }
+                    });
+                }
+            })();
+        </script><!-- direct R-A-53100-20 --><div id="yandex__direct_R-A-53100-20_1696925900693" class=" kp-direct-customize"></div>
+    </div>
+</div>
+<br><br><br><br><br><br>
+</td>
+
+
+<!-- / Правая сторона -->
+        </tr>
+        </tbody></table>
+    
+        </div> <!-- content block -->
+    
+        <div id="footer_wrapper">
+        <div id="partial_component__footer"><div class="partial-component-layout" data-tid="1014704"><footer class="footer-partial-component fMkvGCad_szrQSidUYge suKEnljWeQvAxkEuPuNM OApvCKFDMSZ53Fy6G8ED" data-tid="995d0553"><div class="tzVabWAbKdVvCfTAW1EG" data-tid="9ea84b3c"><img class="KslEfAs_aGD6yODa5CC0 image-partial-component QnGnyrff2HqHNZ97xEPy" src="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/images/1f0f58b55c1d583425a6.png" srcset="//yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/images/1f0f58b55c1d583425a6.png 1x, //yastatic.net/s3/kinopoisk-frontend/desktop-www/release/dist/images/158375d14b967c82dd6b.png 2x" data-tid="d813cf42"><div class="h52qYpikquXwIIHf9W8A"><div class="a6JrHHCUnqcgvK5wKFrt">Смотрите сериалы в&nbsp;Плюсе&nbsp;с&nbsp;Амедиатекой</div><a class="XRFDKKJU8DfXVi5G3cXD UFvGjAW0QZ4ieIYIjizQ c9WzAMN6FcV8zlOVBLKm BmJQElS8p5jVYAXtRGuF AQ93DjnB1VgVwDsEKXMl" href="https://hd.kinopoisk.ru/special/monthofamediateka">Оформить подписку</a></div></div><section class="JdxE9JUIuDyAU6jhmfX3 social-icons NrjFBFP0i8nN3PziarKQ" data-tid="39df70f"><a class="hdfqOqu1my6iiPHUBT8h" href="https://vk.com/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="Страница Кинопоиска в социальной сети ВКонтакте" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/118781/0ae3d1ca27d3794204beec7d3810025f8c2b7e87/svg" alt="https://vk.com/kinopoisk" loading="lazy" data-tid="9107e4a2"></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://twitter.com/kinopoiskru" target="_blank" rel="noopener noreferrer" aria-label="Страница Кинопоиска в социальной сети Twitter" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/61205/97123f0bc0c689932a2fb6b62d3ab8ce04d7e936/svg" alt="https://twitter.com/kinopoiskru" loading="lazy" data-tid="9107e4a2"></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://telegram.me/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="Telegram канал Кинопоиска" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/56833/9f570502e378d5e28a5a173a273fa811c4490a73/svg" alt="https://telegram.me/kinopoisk" loading="lazy" data-tid="9107e4a2"></a><a class="hdfqOqu1my6iiPHUBT8h" href="https://www.youtube.com/user/kinopoisk" target="_blank" rel="noopener noreferrer" aria-label="Youtube канал Кинопоиска" data-tid="2e9b873"><img src="https://avatars.mds.yandex.net/get-bunker/128809/65fe1abdd405eb82aec7490588a1ec6745d9ab87/svg" alt="https://www.youtube.com/user/kinopoisk" loading="lazy" data-tid="9107e4a2"></a></section><ul class="footer-partial-component__content-links vq0uHmuKUnpO5tEowzCI"><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/jobs/vacancies?services=kinopoisk" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Вакансии</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/adv/products/display/kinopoiskmedia" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Реклама</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/docs/usage/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Соглашение</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://www.kinopoisk.ru/legal/recommendations/ru/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Правила рекомендаций</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://yandex.ru/support/kinopoisk/index.html" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Справка</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/media/rubric/19/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Блог</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/special/index/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Кинопоиск PRO</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="https://kinopoisk.userecho.com/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Предложения</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/lists/movies/?b=films" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Все фильмы</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/lists/movies/?b=series" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Все сериалы</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw" data-tid="99325639"><a href="/lists/movies/recommendation/" target="_blank" rel="noopener noreferrer" class="footer-partial-component__content-link w2_a9aPXdJmEOufnt_Ku" data-tid="2e9b873">Что посмотреть</a></li><li class="footer-partial-component__content-item qReRP3WH6za5uChn77Yw"><button type="button" class="kHAd6wjilDf5FvfljU35">Служба поддержки</button></li></ul><div class="TmJ7s9VrB8nAJXSMZmvj oDdzmoS9uTCL5YmqjHsQ NKUrqVtZTGy303AUpSQE" data-tid="358cef48"><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/mainView?appmetrica_tracking_id=170895231946863928" target="_blank" rel="noopener noreferrer" aria-label="Загрузить в App Store" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/128809/12b96dbf545bbbdec363f558998f5d21930ecad7/svg" alt="Загрузить приложение" loading="lazy"></a><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/?appmetrica_tracking_id=603240792315703184" target="_blank" rel="noopener noreferrer" aria-label="Загрузить в Google Play" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/128809/4a0c0e5dfc0393df6d57bc9835c61669a8d5a0cd/svg" alt="Загрузить приложение" loading="lazy"></a><a class="lD7fJQgcmmHSk_77uTqJ" href="https://10267.redirect.appmetrica.yandex.com/?appmetrica_tracking_id=1179706852124993595" target="_blank" rel="noopener noreferrer" aria-label="Загрузить в Huawei AppGallery" data-tid="7777859c"><img src="https://avatars.mds.yandex.net/get-bunker/135516/e780f1f5dc4409a971b196ad702b111c785e0faf/svg" alt="Загрузить приложение" loading="lazy"></a></div><section class="ncTXT_vS9nAoAXOngZ7p footer-partial-component__bottom"><div class="_r6JqJaXacreIH6QLpZp footer-partial-component__bottom-info"><span class="Gkbnxl8jGulZlmeKOvaQ footer-partial-component__bottom-info-year">©&nbsp;2003 — <!-- -->2023<!-- -->,</span><a class="n4e6FBNkaXqsTaIuDWuE footer-partial-component__bottom-info-link" href="https://www.kinopoisk.ru/" target="_blank" rel="noopener noreferrer" data-tid="2e9b873">Кинопоиск</a><span class="oO9uBOK5MrXrTsmB_I5y footer-partial-component__bottom-info-age">18<!-- -->+</span></div><ul class="GFgKj_MkZFxe_SJsPqrI footer-partial-component__bottom-links"><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://tv.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Телепрограмма</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://music.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Музыка</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://afisha.yandex.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Афиша</a></li><li class="J_cUPTdaPlWl8BeTPAiQ footer-partial-component__bottom-item" data-tid="99325639"><a href="https://bookmate.ru" target="_blank" rel="noopener noreferrer" class="VN4GWT8kaqWW7nLBMoKJ footer-partial-component__bottom-link" data-tid="2e9b873">Букмейт</a></li></ul><div class="uBhn0Nm_e5fOpU9EzH6g footer-partial-component__bottom-company"><span class="RGizSIr2L0fr_xk9Uf7v footer-partial-component__bottom-company-name">Проект компании</span><a class="LhN_U2wMaJH5Tpg0cA7Y footer-partial-component__bottom-company-logo" href="https://yandex.ru/all" target="_blank" rel="noopener noreferrer" data-tid="2e9b873">Яндекс</a></div></section></footer></div></div>
+
+</div> <!-- END of footer -->
+
+        
+    </div> <!-- shadow block -->
+</main>
+
+
+            
+    
+
+<!-- Yandex.Metrika counter -->
+<script nonce="" type="text/javascript">
+    'use strict';
+
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter22663942 = new Ya.Metrika2({
+                    id: 22663942,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true,
+                                            tns: {
+                            account: 'kinopoisk_ru',
+                            tmsec: 'kinopoisk_total'
+                        }
+                                    });
+                window.Metrika.onLoad();
+            } catch (e) {
+            }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () {
+                n.parentNode.insertBefore(s, n);
+            };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+
+<noscript>
+    <div><img src="//mc.yandex.ru/watch/22663942" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+
+<script type="text/javascript" src="https://yastatic.net/share2/share.js" charset="utf-8"></script>
+<script async="" src="https://widgets.kinopoisk.ru/dist/discovery/sdk-loader.min.js?v=202310101118" type="text/javascript"></script>
+
+
+    <script type="text/javascript" charset="utf-8" src="https://yastatic.net/browser-updater/v1/script.js" async=""></script>
+    <script nonce="" type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            // setTimeout fixes initialization in IE8
+            setTimeout(function () {
+                try {
+                  new ya.browserUpdater.init({
+                    'lang': 'ru',
+                    'browsers': {
+                      'yabrowser': '15.12',
+                      'chrome': '48',
+                      'ie': '9',
+                      'opera': '34',
+                      'safari': '8',
+                      'fx': '43',
+                      'iron': '35',
+                      'flock': 'Infinity',
+                      'palemoon': '25',
+                      'camino': 'Infinity',
+                      'maxthon': '4.5',
+                      'seamonkey': '2.3'
+                    },
+                    'theme': 'yellow'
+                  });
+                } catch(e) {}
+            }, 1000);
+        });
+    </script>
+
+
+
+<div class="SmartCaptcha-Overlay SmartCaptcha-Overlay_show_spinner" data-testid="advanced-container" tabindex="-1" style="--smart-captcha-doc-height: 656px; --smart-captcha-doc-width: 1280px;"><div class="SmartCaptcha-Spin"></div></div>                <div id="GOWrapper" class="">                    <div id="GoUpWrapper" style="width: 100px;">                        <div id="GoUpClickZone" style="width: 100px;"><p style="background-color: rgba(255, 102, 0, 0.6); display: none;">наверх</p></div>                        <div id="GoUpButton"></div>                    </div>                    <div id="GoPrevButton"><span><i></i></span></div>                    <div class="toggleButton" id="closeButton"><i></i>скрыть</div>                    <p class="toggleButton" id="openButton">наверх</p>                </div><div id="appender_2095119434800834"><div><div class="tooltip" data-tid="4d4454bc"><div data-tid="fa4b125c"></div></div></div></div><script src="https://browser-updater.yandex.net?browserUpdate=%7B%22yabrowser%22%3A%2215.12%22%2C%22chrome%22%3A%2248%22%2C%22ie%22%3A%229%22%2C%22opera%22%3A%2234%22%2C%22safari%22%3A%228%22%2C%22fx%22%3A%2243%22%2C%22iron%22%3A%2235%22%2C%22flock%22%3A%22Infinity%22%2C%22palemoon%22%3A%2225%22%2C%22camino%22%3A%22Infinity%22%2C%22maxthon%22%3A%224.5%22%2C%22seamonkey%22%3A%222.3%22%7D&amp;jsonp=yaBrowserUpdaterJSONPCallback"></script><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="adbanner" id="AdFox_banner"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="advblock" id="yandex_ad"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="b-adv" id="yandex_rtb"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="b-banner"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="bannerad"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="pagead"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="pub_300x250m"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="pub_728x90"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="reklama"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="sideads"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="smart-info-wrapper"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="sponsoredlinks"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="text-ad"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div id="yandex__direct_R-A-53100-20_1535963804291" class="rightTeaser"></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="content"><div data-metrika="adbdetect"></div><div> <div class="_visible_show" id="loadb_"></div></div></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="view-film__superbanner"><div></div></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="_noreachbanner_">
+    <div>
+        <div id="adbid" class="adbclass">
+            <script>
+        </div>
+    </div>
+</div></script></div></div></div></div><div style="position: absolute !important; top: -100px; left: -100px; height: 75px; width: 75px; overflow: hidden;"><div class="top-banner-container"><div></div></div></div><div style="position: fixed; left: -99px;"><div id="3dcc680196"><iframe frameborder="no" scrolling="no" allowtransparency="true" hidefocus="true" tabindex="-1" marginwidth="0" marginheight="0" style="opacity: 1;" src="https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html" id="id1600"></iframe></div></div></body></html>
