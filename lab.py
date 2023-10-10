@@ -30,9 +30,10 @@ for page in range(1, 10):
 
 # Потом когда получится собрать рецензии с нескольких страниц, распарсить можно прямо из текстового файла
 
-# Записываем текст элемента в файл
+# Записываем текст страниц с рецензиями
 # Получаем путь к текущей директории
 current_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(current_dir, "example.txt")
-with open(file_path, "w") as file:
+file_path = os.path.join(current_dir, "lab1page.txt")
+with open(file_path, "w", encoding="utf-8") as file:
     file.write(textResult)
+    
