@@ -37,14 +37,6 @@ def checkDirectories():
     if(not(os.path.exists('dataset/good'))):
         os.mkdir('dataset/good')
 
-# Чтение одной страницы
-# URL = "https://www.kinopoisk.ru/film/535341/reviews/ord/rating/status/bad/perpage/10/page/1/"
-# headers = {"User-Agent": "Mozilla/5.0"}
-# response = requests.get(URL, headers=headers)
-# html_page = response.text
-# soup = BeautifulSoup(html_page, "html.parser")
-# htmlText = soup.prettify()
-
 # Проверка и создание каталогов
 checkDirectories()
 
