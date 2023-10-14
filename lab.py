@@ -8,13 +8,23 @@ def getRightNumber(number):
     return str(number).zfill(4)
 
 
-def parseRevieHTML(review):
+def parseRevieHTML(review):    
     text = ""
 
-    text += review.find('meta', itemprop='headline')['content']
+    a_tag = soup.find('a')
+    text += str(a_tag.get('title'))
     text += "\n"
-    brand_words_div = review.find('div', class_='brand_words')
+
+    text += review.find('meta', itemprop='headline')['content'] 
+    text+= "\n"
+    
+    brand_words_div = review.find('div', class_='brand_words') 
     text += brand_words_div.text.strip()
+    text += "\n"
+
+    text += review.find('span', class_='date').text
+    text += "\n"
+
     return text
 
 def checkDirectories():
@@ -40,8 +50,8 @@ num_pos_reviews  = 0
 num_neg_reviews  = 0
 downloaded_count = 0
 
-# Цикл по страницам рецензий (10, чтобы не заблочило капчей)
-for page in range(1, 10):
+# Цикл по страницам рецензий (5, чтобы не заблочило капчей)
+for page in range(1, 5):
     search_url = f'https://www.kinopoisk.ru/film/535341/reviews/ord/rating/status/all/perpage/10/page/{page}/'
     response = requests.get(search_url, headers={"User-Agent":"Mozilla/5.0"})
     response.encoding = 'utf-8' 
@@ -66,7 +76,7 @@ for page in range(1, 10):
                 num_neg_reviews+=1
 
             file = open(file_path, "w", encoding="utf-8")
-            file.write(f"1+1\n")
+            #file.write(f"1+1TEST\n")
             file.write(textReview)
             file.close()
     else:
