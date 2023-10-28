@@ -1,6 +1,10 @@
 import os
 import pandas as pd
 
+def checkDirectories(name):
+     if(not(os.path.exists(name))):
+         os.mkdir(name)
+
 # СОЗДАНИЕ ДАТАСЕТА
 #import dateparser
 # data = []
@@ -52,23 +56,19 @@ import pandas as pd
 
 # create_annotation_file('dataset', 'annotation.csv')
 
-# 2. Написать скрипт для копирования датасета в другую директорию таким образом, чтобы имена файлов содержали имя класса и его порядковый номер. То есть из dataset/class/0000/txt должно получиться dataset/class_0000.txt. Для того чтобы осталась
-# возможность определить принадлежность экземпляра к классу создать файл-аннотацию (как в пункте 1).
-import shutil
-import os
-import csv
-
-# Проверка существования каталогов
-# def checkDirectories():
-#     if(not(os.path.exists('new_dataset'))):
-#         os.mkdir('new_dataset')
+# 2. Написать скрипт для копирования датасета в другую директорию таким образом, чтобы имена файлов содержали имя класса и его порядковый номер. 
+# То есть из dataset/class/0000/txt должно получиться dataset/class_0000.txt. Для того чтобы осталась
+# возможность определить принадлежность экземпляра к классу и создать файл-аннотацию (как в пункте 1).
+# import shutil
+# import os
+# import csv
 
 # def copy_dataset_with_renamed_files(dataset_dir, destination_dir):
 #     with open('annotation.csv', 'r') as file:
 #         reader = csv.reader(file)
 #         next(reader)  # Skip header row
         
-#         checkDirectories()
+#         checkDirectories(new_dataset)
 #         for row in reader:
 #             row = row[0].split(";")
 #             absolute_path = row[0]
@@ -82,8 +82,90 @@ import csv
 # 3. Написать скрипт, создающий копию датасета таким образом, чтобы каждый файл из сходного датасета получил случайный
 # номер от 0 до 10000, и датасет представлял собой следующую структуру dataset/номер.txt. Для того чтобы осталась
 # возможность определить принадлежность экземпляра к классу создать файл-аннотацию (как в пункте 1).
+# import random
+# import shutil
+# import os
 
-# 4. Написать скрипт, содержащий функцию, получающую на входе метку класса и возвращающую следующий экземпляр (путь к нему) этого класса. Экземпляры идут в любом порядке, но не повторяются. Когда экземпляры заканчиваются, функция
-# возвращает None.
+# def copy_dataset_with_random_numbers(dataset_dir, destination_dir):
+#     with open('annotation.csv', 'r') as file:
+#         reader = csv.reader(file)
+#         next(reader)  # Skip header row
+        
+#         checkDirectories("random_dataset")
+#         for row in reader:
+#             row = row[0].split(";")
+#             absolute_path = row[0]
+#             class_label = row[2]
+#             random_number = random.randint(0, 10000)
+#             file_name = f"{random_number}.txt"
+#             destination_path = os.path.join(destination_dir, file_name)
+#             shutil.copyfile(absolute_path, destination_path)
 
-# 5. Написать на основе предыдущего пункта классы итераторы 
+# copy_dataset_with_random_numbers('dataset', 'random_dataset')
+
+# 4. Написать скрипт, содержащий функцию, получающую на входе метку класса и возвращающую следующий экземпляр (путь к нему) этого класса.
+#    Экземпляры идут в любом порядке, но не повторяются. Когда экземпляры заканчиваются, функция возвращает None.
+# import csv
+# def get_next_instance(class_label, instances):        
+#         for instance in instances:
+#             instance = instance.split(";")
+#             if instance[2] == class_label:
+#                 instances.pop()
+#                 return instance[0]
+#             else:
+#                 return None
+
+
+# instances = set()
+# with open('annotation.csv', 'r') as file:
+#     reader = csv.reader(file)
+#     next(reader)  # Skip header row
+#     for row in reader:
+#         instances.add(row[0])
+
+#     next_instance = get_next_instance('good', instances)
+#     while next_instance is not None:
+#         # Process the instance
+#         print(next_instance)
+#         next_instance = get_next_instance('good', instances)
+
+
+# 5. Написать на основе предыдущего пункта классы итераторы import csv
+import pandas as pd
+
+class InstanceIterator:
+    def __init__(self, class_label):
+        self.class_label = class_label
+        self.instances = list()
+    
+    def __iter__(self):
+        return self
+    
+    def __next__(self):
+        if not self.instances:
+            raise StopIteration
+        
+        return self.instances.pop()
+    
+    def load_data(self, file_path):
+        data = pd.read_csv(file_path, encoding='cp1251', sep=';')
+        #print(data)  # Вывод содержимого переменной data
+        
+        rating_column = data.columns.get_loc('Rating')
+        
+        for index, row in data.iterrows():
+            if row['Rating'] == self.class_label:
+                instance = {
+                    'Title': row['Title'],
+                    'Rating': row['Rating'],
+                    'Header': row['Header'],
+                    'Text': row['Text'],
+                    'Date': row['Date']
+                }
+                self.instances.append(instance)
+
+iterator = InstanceIterator('-')
+iterator.load_data('dataset.csv')
+
+for instance in iterator:
+    print(instance)
