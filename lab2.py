@@ -6,7 +6,7 @@ def checkDirectories(name):
          os.mkdir(name)
 
 # СОЗДАНИЕ ДАТАСЕТА
-#import dateparser
+# import dateparser
 # data = []
 
 # def process_review_file(file_path, rating):
@@ -38,7 +38,7 @@ def checkDirectories(name):
 # df = pd.DataFrame(data, columns=["Title", "Rating", "Header", "Text", "Date"])
 # df.to_csv("reviews_dataset.csv", index=False, encoding="utf-8", sep="|")
 
-#1. Написать скрипт для формирования текстового файла-аннотации собранного датасета. Файл-аннотация должен представлять собой csv-файл,
+# №1. Написать скрипт для формирования текстового файла-аннотации собранного датасета. Файл-аннотация должен представлять собой csv-файл,
 #  в котором в первой колонке будет указан абсолютный путь к файлу, во второй колонке относительный путь относительно вашего Рупоп-проекта,
 #  третья колонка будет содержать текстовое название класса (метку класса), к которому относится данный экземпляр.
 # import csv
@@ -150,7 +150,7 @@ class InstanceIterator:
     def load_data(self, file_path):
         data = pd.read_csv(file_path, encoding='cp1251', sep=';')
         #print(data)  # Вывод содержимого переменной data
-        
+        #pd.columns
         rating_column = data.columns.get_loc('Rating')
         
         for index, row in data.iterrows():
